@@ -435,7 +435,7 @@ To get started with your first Selenium test in Golang, follow these steps:
 
 3. Initialize a Golang Module: In the project directory, initialize a new Go module by running the following command:
 
-   ```golang
+   ```go
    go mod init <module-name>
    ```
 

@@ -1,48 +1,48 @@
 ---
 banner:
-  title: "Scale design & dev operations with Avocode Enterprise"
-  content: "A fully integrated suite of authentication & authoriz products, Stytch’s platform removes the headache of."
+  title: "Learn various topics for free"
+  content: "Leverage the knowledge that I generated with LLMs including chatgpt and bard."
   image: /images/banner-img.png
   button:
-    label: Download The Theme
-    link: "https://themefisher.com/astro-themes/pinwheel-astro"
+    label: View the source code
+    link: "https://github.com/FriendlyUser/books"
     enable: true
 
 ##key features
 key_features:
-  title: "The Highlighting Part Of Our Solution"
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas Werat viverra id et aliquet. vulputate egestas sollicitudin.
+  title: "Books for everyone"
+  description: Mainly focussed on programming there are books out there for everyone.
   feature_list:
     - icon: "map"  #icon package react-feather-icon [https://feathericons.com/]
-      title: Live Caption
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    - icon: "lock"  #icon package react-feather-icon [https://feathericons.com/]
-      title: Smart Reply
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    - icon: "link"  #icon package react-feather-icon [https://feathericons.com/]
-      title: Sound Amplifier
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    - icon: "bell"  #icon package react-feather-icon [https://feathericons.com/]
-      title: Sound Amplifier
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    - icon: "monitor"  #icon package react-feather-icon [https://feathericons.com/]
-      title: Smart Reply
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    - icon: "map"  #icon package react-feather-icon [https://feathericons.com/]
-      title: Live Caption
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    - icon: "link"  #icon package react-feather-icon [https://feathericons.com/]
-      title: Sound Amplifier
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    - icon: "bell"  #icon package react-feather-icon [https://feathericons.com/]
-      title: Sound Amplifier
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    - icon: "map"  #icon package react-feather-icon [https://feathericons.com/]
-      title: Smart Reply
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    - icon: "monitor"  #icon package react-feather-icon [https://feathericons.com/]
-      title: Live Caption
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      title: Can be read by anyone
+      content: Available for free no matter where you are.
+    - icon: "unlock"  #icon package react-feather-icon [https://feathericons.com/]
+      title: Unlocked
+      content: No DRM, can use as you see fit.
+  #   - icon: "link"  #icon package react-feather-icon [https://feathericons.com/]
+  #     title: Sound Amplifier
+  #     content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+  #   - icon: "bell"  #icon package react-feather-icon [https://feathericons.com/]
+  #     title: Sound Amplifier
+  #     content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+  #   - icon: "monitor"  #icon package react-feather-icon [https://feathericons.com/]
+  #     title: Smart Reply
+  #     content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+  #   - icon: "map"  #icon package react-feather-icon [https://feathericons.com/]
+  #     title: Live Caption
+  #     content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+  #   - icon: "link"  #icon package react-feather-icon [https://feathericons.com/]
+  #     title: Sound Amplifier
+  #     content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+  #   - icon: "bell"  #icon package react-feather-icon [https://feathericons.com/]
+  #     title: Sound Amplifier
+  #     content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+  #   - icon: "map"  #icon package react-feather-icon [https://feathericons.com/]
+  #     title: Smart Reply
+  #     content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+  #   - icon: "monitor"  #icon package react-feather-icon [https://feathericons.com/]
+  #     title: Live Caption
+  #     content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
 #service
 service:
@@ -78,7 +78,7 @@ service:
         link: "#"
         enable: true
 
-#testimonial
+# testimonial
 testimonial:
   title: Our customers have nice things to say about us
   description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas Werat viverra id et aliquet. vulputate egestas sollicitudin.

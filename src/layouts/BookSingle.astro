@@ -3,7 +3,7 @@ import { Image } from "@astrojs/image/components";
 import dateFormat from "@lib/utils/dateFormat";
 import readingTime from "@lib/utils/readingTime";
 import Disqus from "./function-components/Disqus";
-
+import PageFindSearch from '@layouts/components/Pagefind.astro';
 import { humanize, slugify } from "@lib/utils/textConverter";
 import {
   FaRegCalendarAlt,
@@ -17,6 +17,7 @@ const { Content } = await post.render();
 
 const {  headings } = Astro.props;
 ---
+<PageFindSearch />
   <section class="section blog-single">
     <div class="container">
       <div class="row justify-center">

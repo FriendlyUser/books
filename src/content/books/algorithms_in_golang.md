@@ -41,7 +41,7 @@ Go has the following built-in data types:
 
 Here is an example program that demonstrates some of the basic syntax and data types in Go:
 
-```golang
+```go
 package main
 
 import "fmt"
@@ -88,7 +88,7 @@ Go has several control structures that you can use to control the flow of your p
 
 Here's an example program that demonstrates some of these control structures:
 
-```golang
+```go
 package main
 
 import "fmt"
@@ -133,7 +133,7 @@ func main() {
 
 Functions are blocks of code that can be called and reused throughout your program. In Go, functions are declared using the `func` keyword, followed by the function name, parameter list (if any), return type (if any), and body. Here's an example program that defines and calls a simple function:
 
-```golang
+```go
 package main
 
 import "fmt"
@@ -158,7 +158,7 @@ Functions are an important part of Go programming language. They are blocks of c
 
 In Go, functions are defined using the `func` keyword, followed by the function name, a list of parameters enclosed in parentheses, and the function body enclosed in curly braces. Here's an example of a simple function in Go:
 
-```golang
+```go
 func add(a, b int) int {
  return a + b
 }
@@ -168,7 +168,7 @@ In this example, the `add` function takes two integer arguments and returns thei
 
 Go functions can also return multiple values. Here's an example of a function that returns both a string and an integer:
 
-```golang
+```go
 func getInfo(name string, age int) (string, int) {
  return name, age
 }
@@ -178,7 +178,7 @@ In this example, the `getInfo` function takes a string and an integer as argumen
 
 Go also has the concept of variadic functions, which can accept an arbitrary number of arguments. Here's an example of a variadic function that calculates the sum of an arbitrary number of integers:
 
-```golang
+```go
 func sum(nums ...int) int {
  result := 0
  for _, num := range nums {
@@ -192,7 +192,7 @@ In this example, the `sum` function takes any number of integer arguments and ad
 
 Functions can also be assigned to variables and passed around as arguments to other functions. This allows for the creation of higher-order functions, which are functions that take other functions as arguments or return functions as results. Here's an example of a higher-order function that takes a function as an argument:
 
-```golang
+```go
 func apply(f func(int) int, x int) int {
  return f(x)
 }
@@ -215,13 +215,13 @@ In Go, a pointer is a variable that holds the memory address of another variable
 
 To declare a pointer variable in Go, we use the `*` operator followed by the data type of the variable being pointed to. For example, to declare a pointer to an integer variable, we can use the following code:
 
-```golang
+```go
 var ptr *int
 ```
 
 Here, `ptr` is a pointer to an integer variable. To initialize `ptr` to point to an integer variable, we can use the address-of operator `&` followed by the variable name:
 
-```golang
+```go
 var num int = 10
 ptr = &num
 ```
@@ -230,7 +230,7 @@ Now `ptr` points to the memory location where the integer variable `num` is stor
 
 To access the value of the variable being pointed to by a pointer, we use the `*` operator followed by the pointer variable name. For example, to access the value of the integer variable pointed to by `ptr`, we can use the following code:
 
-```golang
+```go
 var val int = *ptr
 ```
 
@@ -238,7 +238,7 @@ Here, `val` is assigned the value of the integer variable pointed to by `ptr`.
 
 Pointers can also be passed as arguments to functions, allowing the function to modify the value of the original variable being pointed to. Here's an example of a function that takes a pointer to an integer variable and increments its value:
 
-```golang
+```go
 func increment(ptr \*int) {
  *ptr = *ptr + 1
 }
@@ -258,7 +258,7 @@ In Go, a package is a collection of related Go source files that can be used to 
 
 To create a new package, you simply need to create a directory with the same name as your package, and add one or more `.go` files containing your package's source code. For example, let's say we want to create a package called `math` that provides some basic mathematical functions. We can create a new directory called `math` and add a file called `math. with the following code:
 
-```golang
+```go
 package math
 
 func Add(x, y int) int {
@@ -274,7 +274,7 @@ This package provides two functions, `Add` and `Sub`, which perform addition and
 
 To use this package in another Go program, we simply need to import it with the `import` keyword, like so:
 
-```golang
+```go
 import "path/to/math"
 
 func main() {
@@ -298,7 +298,7 @@ Handling errors and debugging are important skills for any programmer, and Go pr
 
 In Go, errors are represented as values of the `error` interface. Functions that may produce an error typically return both a result value and an error value. The caller is responsible for checking the error value and taking appropriate action if an error occurred. Here's an example:
 
-```golang
+```go
 func doSomething() (string, error) {
  // ...
  if err != nil {
@@ -449,7 +449,7 @@ Here are some practice exercises for basic Big-O notation:
 
 1. Determine the Big-O notation for the following code:
 
-```golang
+```go
 for i in range(n):
  for j in range(n):
  print(i, j)
@@ -461,7 +461,7 @@ Explanation: The code has two nested loops that iterate over n elements each. Th
 
 2. Determine the Big-O notation for the following code:
 
-```golang
+```go
 for i in range(n):
  for j in range(n):
  for k in range(n):
@@ -474,7 +474,7 @@ Explanation: The code has three nested loops that iterate over n elements each. 
 
 3. Determine the Big-O notation for the following code:
 
-```golang
+```go
 for i in range(n):
  print(i)
 ```
@@ -485,7 +485,7 @@ Explanation: The code has a single loop that iterates over n elements.
 
 4. Determine the Big-O notation for the following code:
 
-```golang
+```go
 for i in range(n):
  print(i)
 
@@ -499,7 +499,7 @@ Explanation: The code has two loops, each iterating over n elements. However, th
 
 5. Determine the Big-O notation for the following code:
 
-```golang
+```go
 for i in range(n):
  for j in range(i):
  print(i, j)
@@ -517,7 +517,7 @@ Here are explanations and examples of Bubble Sort, Selection Sort, and Insertion
 
 Bubble Sort is a simple sorting algorithm that repeatedly steps through the list, compares adjacent elements and swaps them if they are in the wrong order. The pass through the list is repeated until the list is sorted.
 
-```golang
+```go
 func bubbleSort(arr []int) {
     n := len(arr)
         for i := 0; i < n-1; i++ {
@@ -534,7 +534,7 @@ func bubbleSort(arr []int) {
 
 Selection Sort is an in-place comparison sorting algorithm that divides the input list into two parts: the sublist of items already sorted, which is built up from left to right at the front (left) of the list, and the sublist of items remaining to be sorted that occupy the rest of the list. Initially, the sorted sublist is empty and the unsorted sublist is the entire input list. The algorithm proceeds by finding the smallest element in the unsorted sublist, exchanging (swapping) it with the leftmost unsorted element (putting it in sorted order), and moving the sublist boundaries one element to the right.
 
-```golang
+```go
 func selectionSort(arr []int) {
  n := len(arr)
  for i := 0; i < n-1; i++ {
@@ -558,7 +558,7 @@ Insertion Sort is a simple sorting algorithm that builds the final sorted array 
 * Adaptive, i.e., efficient for data sets that are already substantially sorted
 * Stable, i.e., does not change the relative order of elements with equal keys
 
-```golang
+```go
 func insertionSort(arr []int) {
     n := len(arr)
     for i := 1; i < n; i++ {
@@ -580,7 +580,7 @@ Here are explanations and examples of Quick Sort, Merge Sort, and Heap Sort algo
 
 Quick Sort is a sorting algorithm that uses the divide-and-conquer strategy to sort an array or list. It works by selecting a 'pivot' element from the array and partitioning the other elements into two sub-arrays, according to whether they are less than or greater than the pivot. The sub-arrays are then sorted recursively.
 
-```golang
+```go
 func quickSort(arr []int, low, high int) {
     if low < high {
         pivot := partition(arr, low, high)
@@ -607,7 +607,7 @@ func partition(arr []int, low, high int) int {
 
 Merge Sort is a sorting algorithm that uses the divide-and-conquer strategy to sort an array or list. It works by dividing the input array into two halves, sorting each half, and then merging the two sorted halves back together.
 
-```golang
+```go
 func mergeSort(arr []int) []int {
     if len(arr) <= 1 {
         return arr
@@ -640,7 +640,7 @@ func merge(left, right []int) []int {
 
 Heap Sort is a comparison-based sorting algorithm that uses a binary heap data structure to sort an array or list. It works by first building a binary heap from the input array and then repeatedly extracting the minimum (or maximum) element from the heap and inserting it into the sorted part of the array.
 
-```golang
+```go
 func heapSort(arr []int) {
     n := len(arr)
     for i := n/2 - 1; i >= 0; i-- {
@@ -699,7 +699,7 @@ Sure, here are some explanations and code examples for linear search and binary 
 
 Linear search is a simple search algorithm that checks every element in a list or array, in order, until the desired element is found.
 
-```golang
+```go
 func linearSearch(arr []int, target int) int {
  for i, val := range arr {
  if val == target {
@@ -716,7 +716,7 @@ In this implementation, we use a for loop to iterate over the array, checking ea
 
 Binary search is a more efficient search algorithm that works by dividing a sorted list in half and checking the middle element. If the middle element is the target, we return its index. Otherwise, if the target is less than the middle element, we recursively search the left half of the list. If the target is greater than the middle element, we recursively search the right half of the list.
 
-```golang
+```go
 func binarySearch(arr []int, target int) int {
  low, high := 0, len(arr)-1
  for low <= high {
@@ -743,7 +743,7 @@ Sure, here are some explanations and code examples for interpolation search and 
 
 Interpolation search is a search algorithm that works by estimating the position of the target element based on its value relative to the minimum and maximum values in the array. It then uses this estimate to narrow down the search range and perform a binary search on that range.
 
-```golang
+```go
 func interpolationSearch(arr []int, target int) int {
  low, high := 0, len(arr)-1
  for low <= high && target >= arr[low] && target <= arr[high] {
@@ -768,7 +768,7 @@ Note that interpolation search works best on uniformly distributed arrays, and m
 
 Exponential search is a search algorithm that works by doubling the search range until an element greater than the target is found. It then performs a binary search on the last search range to locate the target.
 
-```golang
+```go
 func exponentialSearch(arr []int, target int) int {
  if arr[0] == target {
  return 0
@@ -821,7 +821,7 @@ Overall, the choice of searching algorithm may depend on the specific requiremen
 
 Here are example implementations of linear search, binary search, interpolation search, and exponential search in Golang:
 
-```golang
+```go
 // Linear search function
 func linearSearch(arr []int, target int) int {
  for i, val := range arr {
@@ -885,25 +885,25 @@ Here are some practice exercises on searching algorithms in Golang:
 
 1. Implement a function `linearSearchString` that performs linear search on an array of strings, and returns the index of the target string, or -1 if the target is not found. The function should have the signature:
 
-```golang
+```go
 func linearSearchString(arr []string, target string) int
 ```
 
 2. Implement a function `binarySearchFloat64` that performs binary search on an array of float64 values, and returns the index of the target value, or -1 if the target is not found. The function should have the signature:
 
-```golang
+```go
 func binarySearchFloat64(arr []float64, target float64) int
 ```
 
 3. Implement a function `interpolationSearchInt` that performs interpolation search on an array of int values, and returns the index of the target value, or -1 if the target is not found. The function should have the signature:
 
-```golang
+```go
 func interpolationSearchInt(arr []int, target int) int
 ```
 
 4. Implement a function `exponentialSearchString` that performs exponential search on an array of strings, and returns the index of the target string, or -1 if the target is not found. The function should have the signature:
 
-```golang
+```go
 func exponentialSearchString(arr []string, target string) int
 ```
 
@@ -930,7 +930,7 @@ Overall, recursion is a powerful tool in programming, and its applications are n
 
 Here are the implementations of the factorial and Fibonacci sequence functions using recursion in Golang:
 
-```golang
+```go
 // Factorial function using recursion
 func factorial(n int) int {
  if n == 0 {
@@ -1214,7 +1214,7 @@ Assume that the edges are weighted as shown in the diagram.
 
 3. Use Bellman-Ford algorithm to find the shortest path from vertex A to all other vertices in the following graph:
 
-```golang
+```go
  2
  A----------B
  | \ |
@@ -1448,7 +1448,7 @@ Traversal algorithms are used to visit each node of a tree in a specific order. 
 
 1. Pre-order traversal: In pre-order traversal, we visit the current node first, then its left child, and then its right child. The algorithm can be defined recursively as follows:
 
-```golang
+```go
 function preorder(node):
  if node is not null:
  visit(node)
@@ -1458,7 +1458,7 @@ function preorder(node):
 
 2. In-order traversal: In in-order traversal, we visit the left child of the current node first, then the current node, and then its right child. The algorithm can be defined recursively as follows:
 
-```golang
+```go
 function inorder(node):
  if node is not null:
  inorder(node.left)
@@ -1468,7 +1468,7 @@ function inorder(node):
 
 3. Post-order traversal: In post-order traversal, we visit the left child of the current node first, then its right child, and then the current node. The algorithm can be defined recursively as follows:
 
-```golang
+```go
 function postorder(node):
  if node is not null:
  postorder(node.left)
@@ -1528,7 +1528,7 @@ In Golang, we can implement a hash table using a map. A map is a built-in type i
 
 Here is an example implementation of a hash table in Golang:
 
-```golang
+```go
 package main
 
 import "fmt"
@@ -1562,7 +1562,7 @@ func main() {
 
 Output:
 
-```golang
+```go
 map[1:John 2:Jane 3:Bob]
 map[1:John 3:Bob]
 Value found: John

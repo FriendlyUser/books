@@ -5,20 +5,12 @@
       "url": "/"
     },
     {
-      "name": "About",
-      "url": "/about"
+      "name": "Books",
+      "url": "/books"
     },
     {
       "name": "Blog",
       "url": "/blog"
-    },
-    {
-      "name": "Features",
-      "url": "/features"
-    },
-    {
-      "name": "How It Works",
-      "url": "/how-it-works"
     },
     {
       "name": "Pages",
