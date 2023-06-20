@@ -1,9 +1,10 @@
 ---
-tags: ['c']
-title: Kotlin and Spring Boot Quick Start
 description: A Fast-paced Introduction to Building Modern Applications
+imgSrc: https://friendlyuser.github.io/imgs/2023/1373682361.png
 pubDate: Fri, 14 December 2024
-
+tags:
+- c
+title: Kotlin and Spring Boot Quick Start
 ---
 
 # Chapter 1: Introduction to Spring Boot and Kotlin

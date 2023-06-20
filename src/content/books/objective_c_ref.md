@@ -1,9 +1,11 @@
 ---
-tags: ['Erlang']
-title: Objective-C Programming for Beginners
 description: A Step-by-Step Guide to Learning Objective-C Programming Language
+imgSrc: https://friendlyuser.github.io/imgs/2023/DALL·E 2023-01-19 19.54.19 - artificial
+  intelligence will change the way we live.png
 pubDate: Fri, 14 December 2024
-
+tags:
+- Erlang
+title: Objective-C Programming for Beginners
 ---
 
 # Chapter 1: Introduction to Objective-C Programming

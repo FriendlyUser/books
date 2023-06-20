@@ -1,11 +1,12 @@
 ---
-tags: ['c']
-title: Introduction to CSS with Tailwind
 description: Introduction to CSS with Tailwind
+imgSrc: https://friendlyuser.github.io/imgs/2023/1398850108.png
 pubDate: Fri, 14 December 2024
-
-imgSrc: /imgs/2023/2249370858.png
+tags:
+- c
+title: Introduction to CSS with Tailwind
 ---
+
 # Chapter 1: Introduction to CSS
 
 CSS stands for Cascading Style Sheets. It is a stylesheet language used to describe the presentation of a document written in HTML or XML. CSS is used to style web pages and make them visually appealing to the user. It provides a way to separate content from presentation, making it easier to maintain and update the design of a website.

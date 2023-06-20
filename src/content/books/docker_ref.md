@@ -1,9 +1,10 @@
 ---
-tags: ['c']
-title: Docker Mastery
 description: A Comprehensive Guide to Efficient Containerization
+imgSrc: https://friendlyuser.github.io/imgs/2023/3847215807.png
 pubDate: Fri, 14 December 2024
-
+tags:
+- c
+title: Docker Mastery
 ---
 
 # Chapter 1: Introduction to Docker
@@ -5791,4 +5792,3 @@ Docker provides various resources and support for developers and DevOps professi
 6. Docker Conferences: Docker organizes several conferences and events throughout the year, including DockerCon. These events provide opportunities for developers and DevOps professionals to learn about the latest trends and best practices related to Docker.
 
 Overall, Docker provides a wide range of resources and support to help developers and DevOps professionals build, deploy, and manage Docker projects.
-  

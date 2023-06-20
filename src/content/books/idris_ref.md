@@ -1,10 +1,12 @@
 ---
-tags: ['c']
-title: The Joy of Dependently Typed Programming with Idris
 description: A Comprehensive Guide to Safe and Correct Software Development
+imgSrc: https://friendlyuser.github.io/imgs/2023/2575289368.png
 pubDate: Fri, 14 December 2024
-
+tags:
+- c
+title: The Joy of Dependently Typed Programming with Idris
 ---
+
 # Introduction to The Joy of Dependently Typed Programming with Idris: A Comprehensive Guide to Safe and Correct Software Development
 
 

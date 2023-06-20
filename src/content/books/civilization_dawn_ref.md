@@ -1,9 +1,10 @@
 ---
-tags: ['c']
-title: The Dawn of Civilization
 description: Exploring the Origins and Evolution of Early Human Societies
+imgSrc: https://friendlyuser.github.io/imgs/2023/3614994253.png
 pubDate: Fri, 14 December 2024
-
+tags:
+- c
+title: The Dawn of Civilization
 ---
 
 # Chapter 1: The First Humans

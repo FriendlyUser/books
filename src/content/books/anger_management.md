@@ -1,10 +1,12 @@
 ---
-tags: ['c']
-title: "From Rage to Resilience"
-description: "A Guide to Mastering Angry Management"
+description: A Guide to Mastering Angry Management
+imgSrc: https://friendlyuser.github.io/imgs/2023/3382720876.png
 pubDate: Fri, 14 December 2024
-
+tags:
+- c
+title: From Rage to Resilience
 ---
+
 # Chapter 1: Understanding Anger
 
 Explanation of what anger is and how it affects us

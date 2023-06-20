@@ -1,9 +1,10 @@
 ---
-tags: ['c']
-title: Flutter for Beginners
 description: Building Cross-Platform Apps for iOS, Android, and Web
+imgSrc: https://friendlyuser.github.io/imgs/2023/118660664.png
 pubDate: Fri, 14 December 2024
-
+tags:
+- c
+title: Flutter for Beginners
 ---
 
 # Chapter 1: Introduction to Flutter

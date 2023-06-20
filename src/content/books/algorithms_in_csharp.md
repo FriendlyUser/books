@@ -1,11 +1,13 @@
 ---
-tags: ['csharp', 'algorithms']
-title: Introduction to Algorithms with CSharp
 description: A Beginner’s Guide to Learning Algorithms with CSharp
+imgSrc: https://friendlyuser.github.io/imgs/2023/2766162233.png
 pubDate: Fri, 14 December 2024
-
-imgSrc: /imgs/2023/387158145.png
+tags:
+- csharp
+- algorithms
+title: Introduction to Algorithms with CSharp
 ---
+
 # Chapter 1: Introduction to Csharp
 
 C# (pronounced "C sharp") is a modern, multi-paradigm programming language developed by Microsoft. It is an object-oriented language that is designed to be simple, efficient, and type-safe. C# is widely used for developing desktop applications, games, web applications, and mobile apps, among other things. It is part of the .NET framework, which provides a common infrastructure for building and deploying applications across a variety of platforms.

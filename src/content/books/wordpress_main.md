@@ -1,11 +1,14 @@
 ---
-tags: ['php', 'wordpress']
-title: Introduction to WordPress and PHP
 description: Getting started with wordpress and php
+imgSrc: https://friendlyuser.github.io/imgs/2023/1220160824_A_dream_of_a_distant_galaxy__concept_art__matte_painting__HQ__4k
+  (1).png
 pubDate: Fri, 14 December 2024
-
-imgSrc: /imgs/2023/1392845734.png
+tags:
+- php
+- wordpress
+title: Introduction to WordPress and PHP
 ---
+
 # Chapter 1: Introduction to WordPress
 
 WordPress is a popular Content Management System (CMS) used to create websites and blogs. It is built with PHP and uses a MySQL database to store content. WordPress is highly customizable and has a large community of developers creating themes and plugins that can be used to extend its functionality.

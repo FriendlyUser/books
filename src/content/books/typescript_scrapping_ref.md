@@ -1,11 +1,11 @@
 ---
-tags: ['c']
-title: "Web Scraping with Typescript"
 description: A Comprehensive Guide to Building Web Scrapers
+imgSrc: https://friendlyuser.github.io/imgs/2023/303236472.png
 pubDate: Fri, 14 December 2024
-
+tags:
+- c
+title: Web Scraping with Typescript
 ---
-
 
 # Chapter 1: Introduction to Web Scraping with TypeScript
 

@@ -1,9 +1,10 @@
 ---
-tags: ['c']
-title: The Art of War
 description: Weapons and Warfare in Medieval Times
+imgSrc: https://friendlyuser.github.io/imgs/2023/424066448.png
 pubDate: Fri, 14 December 2024
-
+tags:
+- c
+title: The Art of War
 ---
 
 # Introduction
@@ -1980,5 +1981,3 @@ While modern warfare has evolved considerably beyond the tactics and weapons of 
 4. Integration of cyber warfare: While medieval warfare did not involve electronic technology, modern warfare has seen the emergence of cyber warfare as a major component of military strategy. Cyber attacks can disrupt an enemy's communication and logistical networks, much like a siege could cut off a city's supply lines.
 
 In conclusion, while modern warfare is vastly different from medieval warfare in terms of tactics, weapons, and technology, there are still some lessons that can be learned from the past. By adapting and integrating these lessons into modern military strategy and technology, future developments in warfare may become more effective and efficient.
-
-

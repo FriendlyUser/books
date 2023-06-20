@@ -1,11 +1,12 @@
 ---
-tags: ['c']
-title: Mastering Build Systems
-description: A Beginner's Guide to CMake and Make for Efficient and Reliable Software Development
+description: A Beginner's Guide to CMake and Make for Efficient and Reliable Software
+  Development
+imgSrc: https://friendlyuser.github.io/imgs/2023/3063879952.png
 pubDate: Fri, 14 December 2024
-
+tags:
+- c
+title: Mastering Build Systems
 ---
-
 
 # Chapter 1: Introduction to Build Systems
 

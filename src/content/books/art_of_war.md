@@ -1,10 +1,12 @@
 ---
-tags: ['c']
-title: The Art of War
 description: A Comprehensive Guide to Sun Tzu's Classic Military Treatise
+imgSrc: https://friendlyuser.github.io/imgs/2023/4161054396.png
 pubDate: Fri, 14 December 2024
-
+tags:
+- c
+title: The Art of War
 ---
+
 # Introduction: Background on Sun Tzu and The Art of War
 
 ## Importance of The Art of War for modern business and leadership

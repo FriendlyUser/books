@@ -1,9 +1,10 @@
 ---
-tags: ['c']
-title: Web Development with Mojolicious
 description: A Practical Guide to Modern Perl Programming
+imgSrc: https://friendlyuser.github.io/imgs/2023/2223533571.png
 pubDate: Fri, 14 December 2024
-
+tags:
+- c
+title: Web Development with Mojolicious
 ---
 
 # Chapter 1: Introduction to Mojolicious and Perl

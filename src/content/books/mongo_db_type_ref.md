@@ -1,10 +1,13 @@
 ---
-tags: ['go']
-title: Introduction to NOSQL
 description: using MongoDB and Typescript
+imgSrc: https://friendlyuser.github.io/imgs/2023/DALL·E 2022-12-29 12.27.48 - ball
+  cartoon on grass red white like pokeball.png
 pubDate: Fri, 14 December 2024
-
+tags:
+- go
+title: Introduction to NOSQL
 ---
+
 # Chapter 1: Introduction to NoSQL
 
 Introduction to the concept of NoSQL databases

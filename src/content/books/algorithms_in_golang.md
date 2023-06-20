@@ -1,10 +1,11 @@
 ---
-tags: ['golang', 'algorithms']
-title: Introduction to Algorithms with Golang
 description: A Beginner’s Guide to Learning Algorithms with Golang
+imgSrc: https://friendlyuser.github.io/imgs/2023/powell_ANGRY.png
 pubDate: Fri, 14 December 2024
-
-imgSrc: /imgs/2023/26597731.png
+tags:
+- golang
+- algorithms
+title: Introduction to Algorithms with Golang
 ---
 
 # Chapter 1: Introduction to Golang

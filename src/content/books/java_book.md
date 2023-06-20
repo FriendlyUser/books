@@ -1,11 +1,12 @@
 ---
-tags: ['java']
-title: Introduction to Java
 description: Introduction to Java
+imgSrc: https://friendlyuser.github.io/imgs/2023/3194903180.png
 pubDate: Fri, 14 December 2024
-
-imgSrc: /imgs/2023/2773787557.png
+tags:
+- java
+title: Introduction to Java
 ---
+
 # Chapter 1: Introduction to Java Programming
 
 Java is a general-purpose programming language that was created by James Gosling and his team at Sun Microsystems in the mid-1990s. It was designed to be portable, simple, and secure, and to work seamlessly across different platforms, including desktops, servers, and mobile devices.

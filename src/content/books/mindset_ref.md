@@ -1,9 +1,10 @@
 ---
-tags: ['c']
-title: Mindset
 description: The Key to Success
+imgSrc: https://friendlyuser.github.io/imgs/2023/2575289368.png
 pubDate: Fri, 14 December 2024
-
+tags:
+- c
+title: Mindset
 ---
 
 # Chapter 1: The Power of Mindset

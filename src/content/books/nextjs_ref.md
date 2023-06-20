@@ -1,9 +1,10 @@
 ---
-tags: ['c']
-title: Next.js 101
 description: A Beginner's Guide to Building Modern Web Applications
+imgSrc: https://friendlyuser.github.io/imgs/2023/1468599164.png
 pubDate: Fri, 14 December 2024
-
+tags:
+- c
+title: Next.js 101
 ---
 
 # Chapter 1: Introduction to Next.js
@@ -7921,4 +7922,3 @@ Here are some final thoughts on the power and potential of Next.js for building 
 * **Next.js is a constantly evolving framework that is being improved all the time.**
 
 If you are looking for a powerful and versatile framework to build your next web application, Next.js is a great option.
-

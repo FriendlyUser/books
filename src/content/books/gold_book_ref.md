@@ -1,9 +1,10 @@
 ---
-tags: ['c']
-title: The Allure and Legacy of Gold
 description: A History of Humanity's Fascination with the Precious Metal
+imgSrc: https://friendlyuser.github.io/imgs/2023/2466346852.png
 pubDate: Fri, 14 December 2024
-
+tags:
+- c
+title: The Allure and Legacy of Gold
 ---
 
 # Chapter 1: The Origins of Gold

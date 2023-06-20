@@ -1,11 +1,12 @@
 ---
-tags: ['c']
-title: Introduction to Programming in C
 description: A Beginner’s Guide to Learning C
+imgSrc: https://friendlyuser.github.io/imgs/2023/744380791.png
 pubDate: Fri, 14 December 2024
-
-imgSrc: /imgs/2023/2183846735.png
+tags:
+- c
+title: Introduction to Programming in C
 ---
+
 # Chapter 1: Getting Started with C Programming
 
 C is a general-purpose, high-level programming language that was developed in the early 1970s by Dennis Ritchie at Bell Labs. It was designed to be a low-level language that could provide direct access to memory and system-level resources, making it well-suited for system programming and operating system development.

@@ -34,6 +34,7 @@ const bookCollection = defineCollection({
   schema: z.object({
     title: z.string(),
     description: z.string().optional(),
+    imgSrc  : z.string().optional(),
   }),
 });
 

@@ -1,12 +1,11 @@
 ---
-tags: ['c']
-title: The Rise and Fall of the Roman Empire
 description: A Study of Military Tactics and Weapons
+imgSrc: https://friendlyuser.github.io/imgs/2023/3170249337.png
 pubDate: Fri, 14 December 2024
-
+tags:
+- c
+title: The Rise and Fall of the Roman Empire
 ---
-
-
 
 # Chapter 1: Introduction to the Roman Empire's Military
 

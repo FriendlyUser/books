@@ -1,9 +1,10 @@
 ---
-tags: ['Clojure']
-title: The Power of Data Science
 description: A Comprehensive Guide to Using Data for Better Decision Making
+imgSrc: https://friendlyuser.github.io/imgs/2023/bear_book_2.png
 pubDate: Fri, 14 December 2024
-
+tags:
+- Clojure
+title: The Power of Data Science
 ---
 
 # Chapter 1: Introduction to Data Science
@@ -2715,4 +2716,3 @@ Moreover, data science is a field that is constantly evolving, with new technolo
 Data science is also a field that offers high job satisfaction and strong earning potential. According to the Bureau of Labor Statistics, the median annual salary for data scientists was over $100,000 in 2020, and this number is expected to continue to rise as demand for data science skills grows.
 
 So, if you're interested in pursuing a career in data science, now is a great time to get started. With a variety of educational programs and resources available, it's easier than ever to develop the skills and knowledge needed to succeed in this exciting field. Whether you're just starting your career or looking to make a career change, data science offers a wealth of opportunities for personal and professional growth and the chance to make a real difference in the world.
-

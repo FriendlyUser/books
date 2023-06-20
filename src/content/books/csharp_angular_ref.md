@@ -1,9 +1,10 @@
 ---
-tags: ['c']
-title: Full-Stack Development with C# and Angular
 description: Building Modern Web Applications
+imgSrc: https://friendlyuser.github.io/imgs/2023/492664568.png
 pubDate: Fri, 14 December 2024
-
+tags:
+- c
+title: Full-Stack Development with C# and Angular
 ---
 
 # Chapter 1: Introduction to Full-Stack Development

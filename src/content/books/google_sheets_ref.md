@@ -1,9 +1,11 @@
 ---
-tags: ['c']
-title: Automating Data Analysis with Google Sheets
-description: A Practical Guide to Using Scripts and APIs for Efficient Spreadsheet Management
+description: A Practical Guide to Using Scripts and APIs for Efficient Spreadsheet
+  Management
+imgSrc: https://friendlyuser.github.io/imgs/2023/326029388.png
 pubDate: Fri, 14 December 2024
-
+tags:
+- c
+title: Automating Data Analysis with Google Sheets
 ---
 
 # Chapter 1: Introduction to Data Analysis

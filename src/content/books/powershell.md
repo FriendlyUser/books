@@ -1,10 +1,11 @@
 ---
-tags: ['bash']
-title: Automation with Powershell
 description: Getting started with powershell
+imgSrc: https://friendlyuser.github.io/imgs/2023/DALL·E 2022-12-29 12.27.48 - ball
+  cartoon on grass red white like pokeball.png
 pubDate: Fri, 14 December 2024
-
-imgSrc: /imgs/2023/3614994253.png
+tags:
+- bash
+title: Automation with Powershell
 ---
 
 # Preface

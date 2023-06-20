@@ -1,11 +1,11 @@
 ---
-tags: ['c']
-title: Groovy Fundamentals
 description: An Introduction to Programming with Groovy
+imgSrc: https://friendlyuser.github.io/imgs/2023/323056288.png
 pubDate: Fri, 14 December 2024
-
+tags:
+- c
+title: Groovy Fundamentals
 ---
-
 
 # Chapter 1: Introduction to Groovy
 

@@ -1,9 +1,10 @@
 ---
-tags: ['c']
-title: "The Depths of Humanity" 
-description: "Exploring the Complexities of Human Nature"
+description: Exploring the Complexities of Human Nature
+imgSrc: https://friendlyuser.github.io/imgs/2023/4252050732.png
 pubDate: Fri, 14 December 2024
-
+tags:
+- c
+title: The Depths of Humanity
 ---
 
 # Chapter 1: Introduction
@@ -2152,4 +2153,3 @@ In conclusion, the exploration of human nature is an essential and ongoing endea
 For those interested in further reading and exploration of this topic, there are numerous books, articles, and resources available. Some recommended books include "The Social Animal" by David Brooks, "The Anatomy of Violence" by Adrian Raine, and "The Road to Character" by David Brooks. Additionally, online courses and podcasts such as "The Science of Well-Being" by Yale University and "Hidden Brain" by NPR can provide further insights into human nature and behavior.
 
 In sum, the exploration of human nature is an ongoing journey that can lead to profound personal and societal growth. By engaging in this pursuit with curiosity, empathy, and a commitment to positive change, we can unlock new possibilities for ourselves and the world around us.
-

@@ -1,11 +1,12 @@
 ---
-tags: ['jsx']
-title: Getting Started with Technical Analysis in Python
 description: Getting Started with Technical Analysis in Python
+imgSrc: https://friendlyuser.github.io/imgs/2023/186810635.png
 pubDate: Fri, 14 December 2024
-
-imgSrc: /imgs/2023/2752405945.png
+tags:
+- jsx
+title: Getting Started with Technical Analysis in Python
 ---
+
 # Introduction: Why technical analysis matters for traders and investors, overview of Python and its benefits for technical analysis, importance of understanding technical analysis indicators and chart patterns
 
 # Chapter 1: Python Basics for Technical Analysis

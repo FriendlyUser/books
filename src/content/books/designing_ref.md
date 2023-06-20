@@ -1,11 +1,11 @@
 ---
-tags: ['go']
-title: Designing Large Scale Software Systems
 description: Designing Large Scale Software Systems
+imgSrc: https://friendlyuser.github.io/imgs/2023/2094095868.png
 pubDate: Fri, 14 December 2024
-
+tags:
+- go
+title: Designing Large Scale Software Systems
 ---
-
 
 # Chapter 1: Understanding Large Scale Software Systems
 

@@ -1,9 +1,10 @@
 ---
-tags: ['c']
-title: Web Scraping with Go and Selenium
 description: A Practical Guide to Data Mining and Automation
+imgSrc: https://friendlyuser.github.io/imgs/2023/2773787557.png
 pubDate: Fri, 14 December 2024
-
+tags:
+- c
+title: Web Scraping with Go and Selenium
 ---
 
 # Chapter 1: Introduction to UI Testing with Selenium and Golang

@@ -1,11 +1,12 @@
 ---
-tags: ['java']
-title: Introduction to Kotlin
 description: Kotlin is a modern, open-source programming language developed by JetBrains
+imgSrc: https://friendlyuser.github.io/imgs/2023/118660664.png
 pubDate: Fri, 14 December 2024
-
-imgSrc: /imgs/2023/2766162233.png
+tags:
+- java
+title: Introduction to Kotlin
 ---
+
 # Chapter 1: Introduction to Kotlin
 
 Kotlin is a modern, open-source programming language developed by JetBrains, the company behind popular integrated development environments (IDEs) like IntelliJ IDEA, PyCharm, and more. Kotlin is designed to be concise, expressive, and safe. It is designed to work with Java, and it has quickly gained popularity among Android developers due to its compatibility with Java, interoperability with Java libraries, and its many modern features that make it easier and more fun to write code.

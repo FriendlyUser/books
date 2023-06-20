@@ -1,9 +1,10 @@
 ---
-tags: ['php']
-title: "PHP and Laravel"
 description: A Comprehensive Introduction
+imgSrc: https://friendlyuser.github.io/imgs/2023/pokemon_by_first_letter.png
 pubDate: Fri, 14 December 2024
-
+tags:
+- php
+title: PHP and Laravel
 ---
 
 # Chapter 1: Introduction to Backend Development with Laravel and PHP

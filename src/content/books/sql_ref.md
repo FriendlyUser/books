@@ -1,11 +1,13 @@
 ---
-tags: ['sql']
-title: "SQL 101: Getting Started with Structured Query Language"
 description: Introduction to SQL
+imgSrc: https://friendlyuser.github.io/imgs/2023/DALL·E 2022-12-25 18.19.55 - astronaut
+  sitting on a present looking at his laptop next to a christmas tree.png
 pubDate: Fri, 14 December 2024
-
-imgSrc: /imgs/2023/2731764409.png
+tags:
+- sql
+title: 'SQL 101: Getting Started with Structured Query Language'
 ---
+
 # Chapter 1: Introduction to SQL
 
 Overview of Databases

@@ -1,9 +1,10 @@
 ---
-tags: ['Clojure']
-title: Clojure Simplified
 description: An Introduction to Functional Programming with Examples
+imgSrc: https://friendlyuser.github.io/imgs/2023/522267727.png
 pubDate: Fri, 14 December 2024
-
+tags:
+- Clojure
+title: Clojure Simplified
 ---
 
 # Chapter 1: Introduction to Clojure

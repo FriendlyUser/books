@@ -1,10 +1,10 @@
 ---
-tags: ['go']
-title: Introduction to Java and Command Line Applications
 description: Implementing core linux command line applications in Java
+imgSrc: https://friendlyuser.github.io/imgs/2023/3054188082.png
 pubDate: Fri, 14 December 2024
-
-imgSrc: /imgs/2023/1499739095.png
+tags:
+- go
+title: Introduction to Java and Command Line Applications
 ---
 
 # Chapter 1: Introduction to Java and Command Line Applications

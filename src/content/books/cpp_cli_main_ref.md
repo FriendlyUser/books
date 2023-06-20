@@ -1,10 +1,12 @@
 ---
-tags: ['go']
-title: Introduction to C++ and Command Line Applications
 description: Implementing core linux command line applications in C++
+imgSrc: https://friendlyuser.github.io/imgs/2023/633020239.png
 pubDate: Fri, 14 December 2024
-
+tags:
+- go
+title: Introduction to C++ and Command Line Applications
 ---
+
 # Chapter 1: Introduction to C++ and Command Line Applications
 
 Why C++ is a good choice for building command line applications?

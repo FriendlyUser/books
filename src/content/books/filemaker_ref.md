@@ -1,9 +1,10 @@
 ---
-tags: ['c']
-title: Mastering FileMaker
 description: Advanced Techniques for Building Custom Databases
+imgSrc: https://friendlyuser.github.io/imgs/2023/1094181859.png
 pubDate: Fri, 14 December 2024
-
+tags:
+- c
+title: Mastering FileMaker
 ---
 
 # Chapter 1: Advanced Database Design Principles

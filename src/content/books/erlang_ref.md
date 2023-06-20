@@ -1,9 +1,10 @@
 ---
-tags: ['Erlang ']
-title: Erlang 101
 description: An Introduction to Concurrent and Distributed Programming with OTP
+imgSrc: https://friendlyuser.github.io/imgs/2023/3598219737.png
 pubDate: Fri, 14 December 2024
-
+tags:
+- 'Erlang '
+title: Erlang 101
 ---
 
 # Chapter 1: Introduction to Erlang

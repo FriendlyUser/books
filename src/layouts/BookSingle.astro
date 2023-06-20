@@ -23,7 +23,7 @@ const {  headings } = Astro.props;
         <div class="lg:col-10">
           <Image
             class="w-full rounded-xl"
-            src={post.data.imgSrc}
+            src={post.data?.imgSrc || ""}
             alt=""
             width={920}
             height={450}

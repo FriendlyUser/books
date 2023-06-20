@@ -1,9 +1,11 @@
 ---
-tags: ['rust', 'rust']
-title: Bevy Game Development By Example
 description: A Beginner's Guide to Learn Rust and Bevy
+imgSrc: https://friendlyuser.github.io/imgs/2023/3325476992.png
 pubDate: Fri, 14 December 2024
-
+tags:
+- rust
+- rust
+title: Bevy Game Development By Example
 ---
 
 # Chapter 1: Introduction to Game Development

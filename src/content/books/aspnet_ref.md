@@ -1,11 +1,11 @@
 ---
-tags: ['c']
-title: Mastering C# and ASP.NET
 description: A Comprehensive Guide for Beginners
+imgSrc: https://friendlyuser.github.io/imgs/2023/2785394646.png
 pubDate: Fri, 14 December 2024
-
+tags:
+- c
+title: Mastering C# and ASP.NET
 ---
-
 
 # Chapter 1: Introduction to C #
 

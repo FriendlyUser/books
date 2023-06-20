@@ -1,11 +1,12 @@
 ---
-tags: ['c']
-title: Dating Advice for Millennials
 description: Navigating Love in the Digital Age
+imgSrc: https://friendlyuser.github.io/imgs/2023/1091373203.png
 pubDate: Fri, 14 December 2024
-
-imgSrc: /imgs/2023/2340690364.png
+tags:
+- c
+title: Dating Advice for Millennials
 ---
+
 # Chapter 1: Knowing Yourself
 
 Understanding your values and goals

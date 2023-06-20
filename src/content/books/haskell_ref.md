@@ -1,11 +1,11 @@
 ---
-tags: ['haskell']
-title: Haskell 101
 description: An Introduction to Functional Programming and Type Systems
+imgSrc: https://friendlyuser.github.io/imgs/2023/1312348161.png
 pubDate: Fri, 14 December 2024
-
+tags:
+- haskell
+title: Haskell 101
 ---
-
 
 # Chapter 1: Introduction to Functional Programming
 
@@ -4545,4 +4545,3 @@ The Haskell community also maintains several popular online discussion forums, i
 In addition to these resources, there are also several popular Haskell blogs and podcasts that cover a wide range of topics related to Haskell and functional programming. Some popular Haskell blogs include Haskell Weekly, School of Haskell, and the FP Complete blog.
 
 Finally, there are a number of Haskell user groups and meetups around the world, which provide opportunities for Haskell developers to connect and collaborate with each other in person. Some popular Haskell user groups include the New York Haskell Users Group, the London Haskell Users Group, and the Bay Area Haskell Users Group.
-

@@ -1,9 +1,12 @@
 ---
-tags: ['c']
-title: Introduction to Backend Development with Django and Python
-description: It involves using programming languages and frameworks like Python and Django to build the logic behind the web application that is not visible to the end-users.
+description: It involves using programming languages and frameworks like Python and
+  Django to build the logic behind the web application that is not visible to the
+  end-users.
+imgSrc: https://friendlyuser.github.io/imgs/2023/downsize_images.py
 pubDate: Fri, 14 December 2024
-
+tags:
+- c
+title: Introduction to Backend Development with Django and Python
 ---
 
 # Chapter 1: Introduction to Backend Development with Django and Python

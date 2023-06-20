@@ -1,9 +1,10 @@
 ---
-tags: ['c']
-title: CoffeeScript for Beginners
 description: An Introduction to Web Development with CoffeeScript
+imgSrc: https://friendlyuser.github.io/imgs/2023/1113292628.png
 pubDate: Fri, 14 December 2024
-
+tags:
+- c
+title: CoffeeScript for Beginners
 ---
 
 # Chapter 1: Introduction to CoffeeScript

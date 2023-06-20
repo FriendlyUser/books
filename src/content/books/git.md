@@ -1,9 +1,10 @@
 ---
-tags: ['c']
-title: Mastering Git
 description: A Comprehensive Guide to Version Control and Collaboration with Git
+imgSrc: https://friendlyuser.github.io/imgs/2023/590655340.png
 pubDate: Fri, 14 December 2024
-
+tags:
+- c
+title: Mastering Git
 ---
 
 # Introduction

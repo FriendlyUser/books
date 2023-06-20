@@ -1,11 +1,16 @@
 ---
-tags: ['bash']
-title: Bash Scripting 101
-description: This book provides a beginner-friendly introduction to Bash scripting, the language of choice for command line automation. You'll learn how to write scripts to automate common tasks, manipulate files and directories, and create your own custom command line tools. Whether you're a developer looking to improve your command line skills, or a sysadmin seeking to streamline your workflow, this book has everything you need to get started with Bash scripting.
-subtitle: Master the Art of Command Line Automation
+description: This book provides a beginner-friendly introduction to Bash scripting,
+  the language of choice for command line automation. You'll learn how to write scripts
+  to automate common tasks, manipulate files and directories, and create your own
+  custom command line tools. Whether you're a developer looking to improve your command
+  line skills, or a sysadmin seeking to streamline your workflow, this book has everything
+  you need to get started with Bash scripting.
+imgSrc: https://friendlyuser.github.io/imgs/2023/577360463.png
 pubDate: Fri, 14 December 2024
-
-imgSrc: /imgs/2023/336369522.png
+subtitle: Master the Art of Command Line Automation
+tags:
+- bash
+title: Bash Scripting 101
 ---
 
 # Introduction Bash Scripting 101

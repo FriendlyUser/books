@@ -1,9 +1,11 @@
 ---
-tags: ['express', 'typescript']
-title: "SFML Game Development By Example"
 description: A Beginner's Guide to Learn C++ and SFML
+imgSrc: https://friendlyuser.github.io/imgs/2023/3200675184.png
 pubDate: Fri, 14 December 2024
-
+tags:
+- express
+- typescript
+title: SFML Game Development By Example
 ---
 
 # Chapter 1: Introduction to Game Development

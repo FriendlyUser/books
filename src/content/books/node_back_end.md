@@ -1,11 +1,12 @@
 ---
-tags: ['rust']
-title: Introduction to Backend Development with Node.js and Express
 description: Introduction to Backend Development
+imgSrc: https://friendlyuser.github.io/imgs/2023/1468599164.png
 pubDate: Fri, 14 December 2024
-
-imgSrc: /imgs/2023/2185273366.png
+tags:
+- rust
+title: Introduction to Backend Development with Node.js and Express
 ---
+
 # Chapter 1: Setting up your environment and getting started
 
 What is backend development?

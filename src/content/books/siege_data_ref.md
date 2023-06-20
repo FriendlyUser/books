@@ -1,9 +1,10 @@
 ---
-tags: ['c']
-title: The Great Siege
 description: Epic Battles and the Weapons that Changed the Course of History
+imgSrc: https://friendlyuser.github.io/imgs/2023/3437532028.png
 pubDate: Fri, 14 December 2024
-
+tags:
+- c
+title: The Great Siege
 ---
 
 # Chapter 1: The Siege of Tyre
@@ -1309,4 +1310,3 @@ Similarly, understanding the history of siege warfare can help us better underst
 Furthermore, understanding the past can help us identify the root causes of conflicts, and develop strategies to address them. By examining the social, political, and economic factors that led to past conflicts, we can better understand the underlying issues that contribute to conflict and work to address them through non-violent means.
 
 In conclusion, understanding the past is essential for shaping the future of warfare and conflict resolution. By learning from the successes and failures of the past, we can develop more effective strategies and tactics for dealing with conflicts, and work towards a more peaceful and prosperous future.
-

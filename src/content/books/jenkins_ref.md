@@ -1,11 +1,11 @@
 ---
-tags: ['c']
-title: Mastering Jenkins
 description: Continuous Integration and Delivery with Jenkins Automation Server
+imgSrc: https://friendlyuser.github.io/imgs/2023/3185275103.png
 pubDate: Fri, 14 December 2024
-
+tags:
+- c
+title: Mastering Jenkins
 ---
-
 
 # Chapter 1: Introduction to Continuous Integration and Jenkins
 

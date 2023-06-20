@@ -1,9 +1,10 @@
 ---
-tags: ['c']
-title: From Longbows to Muskets
 description: The Development of Firearms in the Age of Exploration
+imgSrc: https://friendlyuser.github.io/imgs/2023/1096284488.png
 pubDate: Fri, 14 December 2024
-
+tags:
+- c
+title: From Longbows to Muskets
 ---
 
 # Chapter 1: Introduction

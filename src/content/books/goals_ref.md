@@ -1,10 +1,12 @@
 ---
-tags: ['c']
-title: "Setting Goals: A Comprehensive Guide to Achieving Your Dreams"
-description:  A Comprehensive Guide to Achieving Your Dreams
+description: A Comprehensive Guide to Achieving Your Dreams
+imgSrc: https://friendlyuser.github.io/imgs/2023/3702590653.png
 pubDate: Fri, 14 December 2024
-
+tags:
+- c
+title: 'Setting Goals: A Comprehensive Guide to Achieving Your Dreams'
 ---
+
 # Chapter 1: Introduction to Goal Setting
 
 Overview of Goal Setting?

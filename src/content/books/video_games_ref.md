@@ -1,10 +1,12 @@
 ---
-tags: ['c']
-title: "Level Up: Mastering Video Games in the Future"
 description: How to get good at video games
+imgSrc: https://friendlyuser.github.io/imgs/2023/2809803247.png
 pubDate: Fri, 14 December 2024
-
+tags:
+- c
+title: 'Level Up: Mastering Video Games in the Future'
 ---
+
 # Chapter 1: Introduction
 
 Overview:
@@ -1952,5 +1954,3 @@ Streamers can also earn revenue through affiliate marketing, which involves prom
 In addition to sponsorships and affiliate marketing, streamers can also earn revenue through advertising, merchandise sales, and donations. Some streamers may also host tournaments and events to generate revenue from entry fees, sponsorships, and prize money.
 
 Understanding the business of streaming and sponsorships is important for streamers who want to monetize their content and turn their passion for gaming into a career. By building a loyal audience and developing partnerships with companies, streamers can earn a steady income from their content and establish themselves as influencers in the gaming community.
-
-

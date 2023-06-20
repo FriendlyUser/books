@@ -1,11 +1,12 @@
 ---
-tags: ['jsx']
-title: Introduction to Angular
 description: A Beginner’s Guide to Learning Angular with
+imgSrc: https://friendlyuser.github.io/imgs/2023/1678591372_a_blade_in_the_desert_under_the_sun.png
 pubDate: Fri, 14 December 2024
-
-imgSrc: /imgs/2023/176625275.png
+tags:
+- jsx
+title: Introduction to Angular
 ---
+
 # Chapter 1: Getting Started with Angular
 
 Angular is a popular JavaScript framework for building dynamic web applications. In this book, we will provide a comprehensive introduction to Angular and cover all the essential topics that you need to know to build web applications using this powerful framework.

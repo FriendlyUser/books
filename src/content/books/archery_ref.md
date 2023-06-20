@@ -1,10 +1,12 @@
 ---
-tags: ['c']
-title: The Art of Archery
 description: A Comprehensive Guide to Traditional and Modern Techniques
+imgSrc: https://friendlyuser.github.io/imgs/2023/1549167659.png
 pubDate: Fri, 14 December 2024
-
+tags:
+- c
+title: The Art of Archery
 ---
+
 # Chapter 1: Introduction to Archery
 ## Overview of Archery
 Archery is an ancient form of hunting and warfare that has evolved into a popular sport enjoyed by millions of people around the world. It involves using a bow to shoot arrows at a target, with the goal of hitting a specific spot on the target. The art of archery requires skill, focus, and discipline, and can be both challenging and rewarding.

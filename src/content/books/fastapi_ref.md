@@ -1,9 +1,10 @@
 ---
-tags: ['c']
-title: Python API Development with FastAPI
 description: Create Reliable APIs Fast and Easily
+imgSrc: https://friendlyuser.github.io/imgs/2023/2571078251.png
 pubDate: Fri, 14 December 2024
-
+tags:
+- c
+title: Python API Development with FastAPI
 ---
 
 # Chapter 1: Introduction to FastAPI and API Development

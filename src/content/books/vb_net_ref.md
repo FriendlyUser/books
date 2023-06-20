@@ -1,9 +1,10 @@
 ---
-tags: ['c']
-title: VB.NET Programming for Beginners
 description: A Step-by-Step Guide to Learning VB.NET Programming Language
+imgSrc: https://friendlyuser.github.io/imgs/2023/1992331816.png
 pubDate: Fri, 14 December 2024
-
+tags:
+- c
+title: VB.NET Programming for Beginners
 ---
 
 # Chapter 1: Introduction to VB.NET Programming

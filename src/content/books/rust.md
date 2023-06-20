@@ -1,11 +1,13 @@
 ---
-tags: ['rust']
-title: "Introduction to Rust: A Safe and Performant Language for the Modern Era"
-description: "Introduction to Rust: A Safe and Performant Language for the Modern Era"
+description: 'Introduction to Rust: A Safe and Performant Language for the Modern
+  Era'
+imgSrc: https://friendlyuser.github.io/imgs/2023/1899250612.png
 pubDate: Fri, 14 December 2024
-
-imgSrc: /imgs/2023/3708253319.png
+tags:
+- rust
+title: 'Introduction to Rust: A Safe and Performant Language for the Modern Era'
 ---
+
 # Chapter 1: Introduction to Rust
 
 What is Rust and why use it?

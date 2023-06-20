@@ -1,11 +1,13 @@
 ---
-tags: ['jsx']
-title: Introduction to Algorithms in Typescript
-description: Algorithms are a set of instructions or procedures that are used to solve a particular problem or accomplish a particular task
+description: Algorithms are a set of instructions or procedures that are used to solve
+  a particular problem or accomplish a particular task
+imgSrc: https://friendlyuser.github.io/imgs/2023/1031426508.png
 pubDate: Fri, 14 December 2024
-
-imgSrc: /imgs/2023/522267727.png
+tags:
+- jsx
+title: Introduction to Algorithms in Typescript
 ---
+
 # Chapter 1: Introduction to Algorithms
 
 Algorithms are a set of instructions or procedures that are used to solve a particular problem or accomplish a particular task. They are an essential component of computer programming, and are used to perform a wide range of tasks, from simple operations like sorting and searching, to complex operations like machine learning and artificial intelligence.

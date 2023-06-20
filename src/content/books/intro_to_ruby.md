@@ -1,11 +1,12 @@
 ---
-tags: ['jsx']
-title: Introduction to Angular
 description: A Beginner’s Guide to Learning Ruby
+imgSrc: https://friendlyuser.github.io/imgs/2023/3541980154.png
 pubDate: Fri, 14 December 2024
-
-imgSrc: /imgs/2023/4238666440.png
+tags:
+- jsx
+title: Introduction to Angular
 ---
+
 # Chapter 1: Getting Started with Ruby
 
 Ruby is a high-level, interpreted programming language known for its simplicity, readability, and productivity. It was created by Yukihiro "Matz" Matsumoto in the mid-1990s, with the goal of providing a language that is fun and easy to use. Ruby has a concise and elegant syntax that allows developers to write code quickly and efficiently.

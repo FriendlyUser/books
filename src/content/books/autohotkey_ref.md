@@ -1,11 +1,12 @@
 ---
-tags: ['express', 'typescript']
-title: AutoHotkey Scripting
-description:  Tips and Tricks for Automating Your Windows PC
+description: Tips and Tricks for Automating Your Windows PC
+imgSrc: https://friendlyuser.github.io/imgs/2023/3558128873.png
 pubDate: Fri, 14 December 2024
-
+tags:
+- express
+- typescript
+title: AutoHotkey Scripting
 ---
-
 
 # Chapter 1: Introduction to AutoHotkey
 

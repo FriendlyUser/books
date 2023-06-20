@@ -1,11 +1,11 @@
 ---
-tags: ['c']
-title: Black Gold
 description: A Comprehensive History of Oil and Its Impact on the World
+imgSrc: https://friendlyuser.github.io/imgs/2023/359936451.png
 pubDate: Fri, 14 December 2024
-
+tags:
+- c
+title: Black Gold
 ---
-
 
 # Chapter 1: The Birth of the Oil Industry
 Early uses of oil
@@ -1550,5 +1550,3 @@ One of the main benefits of CCS is that it can be retrofitted to existing power 
 However, there are some concerns about the safety and environmental impact of CCS. The storage of large amounts of CO2 underground has the potential to cause earthquakes, and there is a risk of CO2 leaks. Additionally, the long-term storage of CO2 underground is not yet fully understood, and there is a risk that stored CO2 could leak out over time.
 
 Despite these concerns, many experts believe that CCS will play an important role in reducing greenhouse gas emissions in the coming decades. As such, governments and industry are investing in research and development of CCS technologies. However, it is important to note that CCS alone cannot solve the climate crisis, and that a comprehensive approach to reducing emissions is necessary, including a transition to renewable energy sources and increased energy efficiency.
-
-

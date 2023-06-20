@@ -1,9 +1,10 @@
 ---
-tags: ['c']
-title: ColdFusion 101
 description: An Introduction to Web Development with ColdFusion
+imgSrc: https://friendlyuser.github.io/imgs/2023/investing.png
 pubDate: Fri, 14 December 2024
-
+tags:
+- c
+title: ColdFusion 101
 ---
 
 # Chapter 1: Introduction to ColdFusion

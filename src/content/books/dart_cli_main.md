@@ -1,9 +1,10 @@
 ---
-tags: ['dart']
-title: Introduction to Dart and Command Line Applications
 description: Implementing core linux command line applications in Dart
+imgSrc: https://friendlyuser.github.io/imgs/2023/2844566079.png
 pubDate: Fri, 14 December 2024
-
+tags:
+- dart
+title: Introduction to Dart and Command Line Applications
 ---
 
 # Chapter 1: Introduction to Dart and Command Line Applications

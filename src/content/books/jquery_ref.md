@@ -1,9 +1,10 @@
 ---
-tags: ['go']
-title: Mastering jQuery
 description: Advanced Techniques for Building Dynamic Web Applications
+imgSrc: https://friendlyuser.github.io/imgs/2023/1549167659.png
 pubDate: Fri, 14 December 2024
-
+tags:
+- go
+title: Mastering jQuery
 ---
 
 # Chapter 1: Introduction to Advanced jQuery Techniques

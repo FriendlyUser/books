@@ -1,9 +1,11 @@
 ---
-tags: ['pygame', 'python']
-title: "Master Game Development: Create 7 Python Games with Pygame to Boost Your Skills"
 description: Build 7 classic games using pygame
+imgSrc: https://friendlyuser.github.io/imgs/2023/1452718796.png
 pubDate: Fri, 14 December 2024
-
+tags:
+- pygame
+- python
+title: 'Master Game Development: Create 7 Python Games with Pygame to Boost Your Skills'
 ---
 
 # Chapter 1: Introduction

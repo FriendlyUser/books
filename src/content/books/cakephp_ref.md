@@ -1,9 +1,10 @@
 ---
-tags: ['c']
-title: Mastering Backend Development with PHP and CakePHP
 description: A Comprehensive Guide to Building Scalable and Secure Web Applications
+imgSrc: https://friendlyuser.github.io/imgs/2023/3053072516.png
 pubDate: Fri, 14 December 2024
-
+tags:
+- c
+title: Mastering Backend Development with PHP and CakePHP
 ---
 
 # Introduction

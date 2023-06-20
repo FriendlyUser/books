@@ -1,9 +1,10 @@
 ---
-tags: ['c']
-title: Solidity for Beginners
 description: A Comprehensive Guide to Building Smart Contracts on the Ethereum Blockchain
+imgSrc: https://friendlyuser.github.io/imgs/2023/26597731.png
 pubDate: Fri, 14 December 2024
-
+tags:
+- c
+title: Solidity for Beginners
 ---
 
 # Chapter 1: Introduction to Solidity and Smart Contracts

@@ -1,9 +1,10 @@
 ---
-tags: ['c']
-title: The Samurai Sword
 description: Its History and Significance in Japanese Culture
+imgSrc: https://friendlyuser.github.io/imgs/2023/4161054396.png
 pubDate: Fri, 14 December 2024
-
+tags:
+- c
+title: The Samurai Sword
 ---
 
 # Chapter 1: Introduction to the Samurai Sword

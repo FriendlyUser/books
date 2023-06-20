@@ -1,11 +1,11 @@
 ---
-tags: ['go']
-title: Introduction to philosophy
 description: Understanding Life’s Biggest Questions
+imgSrc: https://friendlyuser.github.io/imgs/2023/3054188082.png
 pubDate: Fri, 14 December 2024
-
+tags:
+- go
+title: Introduction to philosophy
 ---
-
 
 # Chapter 1: Introduction to Philosophy
 Definition of philosophy?

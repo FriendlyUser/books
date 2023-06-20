@@ -1,10 +1,12 @@
 ---
-tags: ['go']
-title: Introduction to Kotlin and Command Line Applications
 description: Implementing core linux command line applications in Kotiln
+imgSrc: https://friendlyuser.github.io/imgs/2023/nature_0.jpeg
 pubDate: Fri, 14 December 2024
-
+tags:
+- go
+title: Introduction to Kotlin and Command Line Applications
 ---
+
 # Chapter 1: Introduction to Kotlin and Command Line Applications
 
 Why Kotlin is a good choice for building command line applications?

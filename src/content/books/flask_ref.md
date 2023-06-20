@@ -1,9 +1,10 @@
 ---
-tags: ['c']
-title: Flask Web Development with Python
 description: A Beginner's Guide
+imgSrc: https://friendlyuser.github.io/imgs/2023/2125743054.png
 pubDate: Fri, 14 December 2024
-
+tags:
+- c
+title: Flask Web Development with Python
 ---
 
 # Chapter 1: Introduction to Flask

@@ -1,9 +1,10 @@
 ---
-tags: ['c']
-title: Mastering Nginx
 description: Advanced Techniques for Configuring and Optimizing Servers
+imgSrc: https://friendlyuser.github.io/imgs/2023/3063879952.png
 pubDate: Fri, 14 December 2024
-
+tags:
+- c
+title: Mastering Nginx
 ---
 
 # Chapter 1: Introduction to Nginx

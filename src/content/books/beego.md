@@ -1,9 +1,10 @@
 ---
-tags: ['go']
-title: Building Web Applications with Go and Beego
 description: An Introduction to Backend Development
+imgSrc: https://friendlyuser.github.io/imgs/2023/1538101898.png
 pubDate: Fri, 14 December 2024
-
+tags:
+- go
+title: Building Web Applications with Go and Beego
 ---
 
 # Chapter 1: Introduction to Go and Beego Framework

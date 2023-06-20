@@ -1,9 +1,10 @@
 ---
-tags: ['c']
-title: Building Scalable Web Applications with Erlang and ChicagoBoss
 description: A Comprehensive Guide to Backend Development
+imgSrc: https://friendlyuser.github.io/imgs/2023/3563897667.png
 pubDate: Fri, 14 December 2024
-
+tags:
+- c
+title: Building Scalable Web Applications with Erlang and ChicagoBoss
 ---
 
 # Chapter 1: Introduction to Erlang and ChicagoBoss

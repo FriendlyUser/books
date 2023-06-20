@@ -1,11 +1,12 @@
 ---
-tags: ['scala']
-title: Introduction to Scala
 description: Introduction to Scala
+imgSrc: https://friendlyuser.github.io/imgs/2023/2291827528.png
 pubDate: Fri, 14 December 2024
-
-imgSrc: /imgs/2023/4106196453.png
+tags:
+- scala
+title: Introduction to Scala
 ---
+
 # Chapter 1: Getting Started with Scala
 
 Introduction to Scala

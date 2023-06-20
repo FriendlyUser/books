@@ -1,10 +1,10 @@
 ---
-tags: ['go']
-title: Introduction to Typescript and Command Line Applications
 description: Implementing core linux command line applications in Typescript
+imgSrc: https://friendlyuser.github.io/imgs/2023/2257408743.png
 pubDate: Fri, 14 December 2024
-
-imgSrc: /imgs/2023/2001651539.png
+tags:
+- go
+title: Introduction to Typescript and Command Line Applications
 ---
 
 # Chapter 1: Introduction to Typescript and Command Line Applications

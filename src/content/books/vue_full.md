@@ -1,10 +1,10 @@
 ---
-tags: ['vue']
-title: Introduction to Vue by building Projects
 description: Introduction to Vue by building projects
+imgSrc: https://friendlyuser.github.io/imgs/2023/803232156.png
 pubDate: Fri, 14 December 2024
-
-imgSrc: /imgs/2023/2809803247.png
+tags:
+- vue
+title: Introduction to Vue by building Projects
 ---
 
 # Chapter 1: Introduction to Vue.js

@@ -1,9 +1,10 @@
 ---
-tags: ['c']
-title: Apache Mastery
 description: Advanced Techniques for Configuring and Optimizing Servers
+imgSrc: https://friendlyuser.github.io/imgs/2023/3658824416.png
 pubDate: Fri, 14 December 2024
-
+tags:
+- c
+title: Apache Mastery
 ---
 
 # Chapter 1: Introduction to Apache

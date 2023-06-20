@@ -1,10 +1,12 @@
 ---
-tags: ['c']
-title: V Programming Language
 description: An Introduction to Fast, Safe, and Productive Systems Programming
+imgSrc: https://friendlyuser.github.io/imgs/2023/1144941208.png
 pubDate: Fri, 14 December 2024
-
+tags:
+- c
+title: V Programming Language
 ---
+
 # Chapter 1: Introduction to V Programming Language
 
 ## Overview of the book

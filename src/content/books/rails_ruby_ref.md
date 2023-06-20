@@ -1,9 +1,10 @@
 ---
-tags: ['c']
-title: Building Modern Web Applications with Ruby on Rails
 description: From Frontend to Backend
+imgSrc: https://friendlyuser.github.io/imgs/2023/upload_icon_cloud.png
 pubDate: Fri, 14 December 2024
-
+tags:
+- c
+title: Building Modern Web Applications with Ruby on Rails
 ---
 
 # Chapter 1: Introduction to Ruby on Rails

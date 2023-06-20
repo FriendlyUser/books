@@ -1,9 +1,10 @@
 ---
-tags: ['go']
-title: Building Web Applications with Go and Gin
 description: An Introduction to Backend Development
+imgSrc: https://friendlyuser.github.io/imgs/2023/954954072.png
 pubDate: Fri, 14 December 2024
-
+tags:
+- go
+title: Building Web Applications with Go and Gin
 ---
 
 # Chapter 1: Introduction to Go and Gin

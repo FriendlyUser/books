@@ -1,12 +1,11 @@
 ---
-tags: ['c']
-title: Ansible for DevOps
 description: Automate Your Infrastructure and Streamline Deployment Processes
+imgSrc: https://friendlyuser.github.io/imgs/2023/2378078723.png
 pubDate: Fri, 14 December 2024
-
+tags:
+- c
+title: Ansible for DevOps
 ---
-
-
 
 # Chapter 1: Introduction to Ansible and DevOps
 

@@ -1,10 +1,12 @@
 ---
-tags: ['go']
-title: Whispers of the Wind
 description: Whispers of the Wind
+imgSrc: https://friendlyuser.github.io/imgs/2023/2896017845.png
 pubDate: Fri, 14 December 2024
-
+tags:
+- go
+title: Whispers of the Wind
 ---
+
 # I. Prologue
 Introduce the protagonist, a young woman who inherits her grandmother's cottage in Windcove and moves there to start a new life.
 Lena had always felt like she was searching for something, but she never knew exactly what. She had grown up in the city, surrounded by noise and people, and it had always left her feeling restless.
@@ -726,5 +728,3 @@ Lila takes Ethan's hand again and squeezes it, her heart overflowing with love. 
 Ethan nods, his eyes shining with pride. "Our love story has become a legend in this town," he says. "And I'm grateful every day for the chance to live it with you."
 
 They sit in silence for a while longer, watching the sun sink lower in the sky and the stars begin to twinkle in the distance. As the darkness settles around them, they hold each other close, secure in the knowledge that they've found their way to each other, and that their love will guide them through any challenge that lies ahead.
-
-

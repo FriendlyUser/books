@@ -1,9 +1,11 @@
 ---
-tags: ['c']
-title: "Mastering Backend Rust Development with Actix Web"
 description: An Introduction to High-Performance Web Services
+imgSrc: https://friendlyuser.github.io/imgs/2023/DALL·E 2023-01-08 20.37.11 - icon
+  of a sword and shield.png
 pubDate: Fri, 14 December 2024
-
+tags:
+- c
+title: Mastering Backend Rust Development with Actix Web
 ---
 
 # Chapter 1: Introduction to Rust and Actix Web

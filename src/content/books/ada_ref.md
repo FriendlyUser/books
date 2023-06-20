@@ -1,9 +1,10 @@
 ---
-tags: ['c']
-title: Mastering Ada
 description: A Comprehensive Guide to Modern Programming
+imgSrc: https://friendlyuser.github.io/imgs/2023/3997466131.png
 pubDate: Fri, 14 December 2024
-
+tags:
+- c
+title: Mastering Ada
 ---
 
 # Chapter 1: Introduction to Ada

@@ -1,11 +1,12 @@
 ---
-tags: ['c']
-title: Introduction to Programming in C++
 description: A Beginner’s Guide to Learning Ruby
+imgSrc: https://friendlyuser.github.io/imgs/2023/3921645129.png
 pubDate: Fri, 14 December 2024
-
-imgSrc: /imgs/2023/2228775041.png
+tags:
+- c
+title: Introduction to Programming in C++
 ---
+
 # Chapter 1: Introduction to C++ Programming
 
 C++ is a general-purpose programming language that was developed by Bjarne Stroustrup in 1983 as an extension of the C programming language. C++ is an object-oriented programming language and is widely used for developing complex systems and applications.

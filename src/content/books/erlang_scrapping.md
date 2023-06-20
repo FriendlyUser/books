@@ -1,9 +1,10 @@
 ---
-tags: ['c']
-title: Efficient Web Scraping with Erlang
 description: Building High-Performance and Fault-Tolerant Crawlers
+imgSrc: https://friendlyuser.github.io/imgs/2023/226878303.png
 pubDate: Fri, 14 December 2024
-
+tags:
+- c
+title: Efficient Web Scraping with Erlang
 ---
 
 # Chapter 1: Introduction to Web Scraping and Erlang

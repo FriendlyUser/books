@@ -1,9 +1,10 @@
 ---
-tags: ['go']
-title: Introduction to scientific computing with FORTRAN
 description: Introduction to scientific computing with FORTRAN
+imgSrc: https://friendlyuser.github.io/imgs/2023/117117315.png
 pubDate: Fri, 14 December 2024
-
+tags:
+- go
+title: Introduction to scientific computing with FORTRAN
 ---
 
 # Chapter 1: Introduction to Programming

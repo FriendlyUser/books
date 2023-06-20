@@ -1,11 +1,12 @@
 ---
-tags: ['rust']
-title: Introduction to Rust and Command Line Applications
 description: Implementing core linux command line applications in Rust
+imgSrc: https://friendlyuser.github.io/imgs/2023/1678591372_a_blade_in_the_desert_under_the_sun.png
 pubDate: Fri, 14 December 2024
-
-imgSrc: /imgs/2023/2311303086.png
+tags:
+- rust
+title: Introduction to Rust and Command Line Applications
 ---
+
 # Chapter 1: Introduction to Rust and Command Line Applications
 
 Why Rust is a good choice for building command line applications?

@@ -1,10 +1,12 @@
 ---
-tags: ['yml']
-title: Real Estate Investing 101
 description: A Beginner's Guide to Building Wealth Through Property Investment
+imgSrc: https://friendlyuser.github.io/imgs/2023/4046799380_Scrapping_oil_off_a_painting.png
 pubDate: Fri, 14 December 2024
-
+tags:
+- yml
+title: Real Estate Investing 101
 ---
+
 # Chapter 1: Introduction to Real Estate Investing
 Overview of Real Estate Investing?
 Real estate investing is a wealth-building strategy that involves the purchase, ownership, management, rental, or sale of real estate for profit. It is a popular investment vehicle for building wealth due to its potential for generating long-term passive income, appreciation, and tax benefits. This chapter will provide you with an overview of real estate investing, its benefits, risks, and the different types of properties you can invest in.
@@ -2432,5 +2434,3 @@ To be successful in real estate investing, it's important to stay up-to-date on 
 5. Network with other professionals: Connect with other real estate professionals like brokers, agents, and property managers. They can provide valuable insights into the local market and help you stay informed about changes and trends.
 
 Remember, the real estate market is constantly changing. By staying informed and up-to-date on market trends and changes, you'll be better positioned to make informed investment decisions.
-
-

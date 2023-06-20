@@ -1,10 +1,10 @@
 ---
-tags: ['perl']
-title: Introduction to Programming with Perl
 description: Introduction to Python by building projects
+imgSrc: https://friendlyuser.github.io/imgs/2023/1230376530.png
 pubDate: Fri, 14 December 2024
-
-imgSrc: /imgs/2023/4042044064.png
+tags:
+- perl
+title: Introduction to Programming with Perl
 ---
 
 # Chapter 1: Introduction to Perl

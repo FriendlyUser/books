@@ -1,9 +1,11 @@
 ---
-tags: ['go']
-title: Web Scraping with Go
 description: A Comprehensive Guide to Building Web Scrapers with Go Programming Language
+imgSrc: https://friendlyuser.github.io/imgs/2023/1220160824_A_dream_of_a_distant_galaxy__concept_art__matte_painting__HQ__4k
+  (1).png
 pubDate: Fri, 14 December 2024
-
+tags:
+- go
+title: Web Scraping with Go
 ---
 
 # Chapter 1: Introduction to Web Scraping

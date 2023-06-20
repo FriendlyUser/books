@@ -1,11 +1,11 @@
 ---
-tags: ['c']
-title: The Aging Mind
 description: Understanding Cognitive Decline in the Elderly
+imgSrc: https://friendlyuser.github.io/imgs/2023/3870845711.png
 pubDate: Fri, 14 December 2024
-
+tags:
+- c
+title: The Aging Mind
 ---
-
 
 # Chapter 1: Introduction
 

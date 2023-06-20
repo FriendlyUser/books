@@ -1,9 +1,10 @@
 ---
-tags: ['c']
-title: Mastering GraphQL
 description: Building Modern APIs with GraphQL and Apollo
+imgSrc: https://friendlyuser.github.io/imgs/2023/2378078723.png
 pubDate: Fri, 14 December 2024
-
+tags:
+- c
+title: Mastering GraphQL
 ---
 
 # Chapter 1: Introduction to GraphQL and Apollo

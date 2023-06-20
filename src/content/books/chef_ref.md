@@ -1,9 +1,10 @@
 ---
-tags: ['c']
-title: DevOps Automation with Progress Chef
 description: Streamline Your Infrastructure and Deployment Processes
+imgSrc: https://friendlyuser.github.io/imgs/2023/powell_ANGRY.png
 pubDate: Fri, 14 December 2024
-
+tags:
+- c
+title: DevOps Automation with Progress Chef
 ---
 
 # Chapter 1: Introduction to DevOps and Automation

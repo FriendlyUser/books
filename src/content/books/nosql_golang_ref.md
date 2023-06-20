@@ -1,10 +1,12 @@
 ---
-tags: ['go']
-title: Mastering NOSQL with golang and mongodb
 description: with golang and mongodb
+imgSrc: https://friendlyuser.github.io/imgs/2023/1899250612.png
 pubDate: Fri, 14 December 2024
-
+tags:
+- go
+title: Mastering NOSQL with golang and mongodb
 ---
+
 # Chapter 1: Introduction to NoSQL and MongoDB
 
 Overview of NoSQL databases and why they are important

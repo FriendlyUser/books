@@ -1,9 +1,10 @@
 ---
-tags: ['c']
-title: Java Fundamentals
 description: An Introduction to Object-Oriented Programming and Software Development
+imgSrc: https://friendlyuser.github.io/imgs/2023/2575289368.png
 pubDate: Fri, 14 December 2024
-
+tags:
+- c
+title: Java Fundamentals
 ---
 
 # Chapter 1: Introduction to Java and Object-Oriented Programming

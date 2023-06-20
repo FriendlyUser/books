@@ -1,9 +1,10 @@
 ---
-tags: ['c']
-title: The Vikings
 description: Raiders and Warriors of the North and Their Weapons
+imgSrc: https://friendlyuser.github.io/imgs/2023/2966567085.png
 pubDate: Fri, 14 December 2024
-
+tags:
+- c
+title: The Vikings
 ---
 
 # Chapter 1: Introduction to the Viking Age

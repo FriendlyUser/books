@@ -1,9 +1,10 @@
 ---
-tags: ['Erlang']
-title: Web3 Development with TypeScript and Ethereum
 description: A Beginner's Guide to Building Decentralized Applications on the Blockchain
+imgSrc: https://friendlyuser.github.io/imgs/2023/27770932.png
 pubDate: Fri, 14 December 2024
-
+tags:
+- Erlang
+title: Web3 Development with TypeScript and Ethereum
 ---
 
 # Chapter 1: Introduction to Web3 and Ethereum

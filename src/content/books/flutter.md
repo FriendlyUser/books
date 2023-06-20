@@ -1,11 +1,13 @@
 ---
-tags: ['bash']
-title: Introduction to Dart and Flutter
-description: "Building Beautiful and Fast Mobile Apps with Dart and Flutter: A Comprehensive Guide for Beginners"
+description: 'Building Beautiful and Fast Mobile Apps with Dart and Flutter: A Comprehensive
+  Guide for Beginners'
+imgSrc: https://friendlyuser.github.io/imgs/2023/3170249337.png
 pubDate: Fri, 14 December 2024
-
-imgSrc: /imgs/2023/4279596222.png
+tags:
+- bash
+title: Introduction to Dart and Flutter
 ---
+
 # Chapter 1: Introduction to Dart and Flutter
 
 Dart is a general-purpose programming language that was created by Google. It was designed to be easy to learn and use, with a focus on productivity and scalability. Dart is an object-oriented language that supports both optional static typing and dynamic typing, which means you can choose whether or not to specify the types of your variables. Dart can be used to build web, mobile, and desktop applications, as well as server-side applications. It also has a fast virtual machine that allows it to run code quickly, making it suitable for high-performance applications.

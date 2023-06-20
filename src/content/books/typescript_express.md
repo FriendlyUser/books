@@ -1,9 +1,11 @@
 ---
-tags: ['express', 'typescript']
-title: Building Modern Web Applications with TypeScript and Express
 description: From Frontend to Backend
+imgSrc: https://friendlyuser.github.io/imgs/2023/872471039.png
 pubDate: Fri, 14 December 2024
-
+tags:
+- express
+- typescript
+title: Building Modern Web Applications with TypeScript and Express
 ---
 
 # Chapter 1: Introduction to TypeScript and Express

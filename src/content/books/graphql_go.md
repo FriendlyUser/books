@@ -1,9 +1,10 @@
 ---
-tags: ['c']
-title: "Building GraphQL APIs with Go"
 description: A Comprehensive Guide to Building Modern APIs with GraphQL and Go
+imgSrc: https://friendlyuser.github.io/imgs/2023/3658824416.png
 pubDate: Fri, 14 December 2024
-
+tags:
+- c
+title: Building GraphQL APIs with Go
 ---
 
 # Chapter 1: Introduction to GraphQL and Go

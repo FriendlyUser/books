@@ -1,4 +1,5 @@
-﻿---
+---
+imgSrc: https://friendlyuser.github.io/imgs/2023/2228775041.png
 tags: ['c']
 title: Knights in Shining Armor
 description: The Evolution of Medieval Warfare and Weaponry

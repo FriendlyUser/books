@@ -1,11 +1,11 @@
 ---
-tags: ['c']
-title: The Hugo Handbook
 description: A Comprehensive Guide to Building Static Websites with Hugo
+imgSrc: https://friendlyuser.github.io/imgs/2023/656417929.png
 pubDate: Fri, 14 December 2024
-
+tags:
+- c
+title: The Hugo Handbook
 ---
-
 
 # Chapter 1: Introduction to Hugo
 

@@ -1,9 +1,10 @@
 ---
-tags: ['c']
-title: Full-Stack Development with C# and React
 description: Building Modern Web Applications
+imgSrc: https://friendlyuser.github.io/imgs/2023/2515566937.png
 pubDate: Fri, 14 December 2024
-
+tags:
+- c
+title: Full-Stack Development with C# and React
 ---
 
 # Chapter 1: Introduction to Full-Stack Development

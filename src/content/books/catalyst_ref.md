@@ -1,9 +1,10 @@
 ---
-tags: ['c']
-title: Catalyst
 description: Accelerating Modern Web Development with Perl
+imgSrc: https://friendlyuser.github.io/imgs/2023/831070838.png
 pubDate: Fri, 14 December 2024
-
+tags:
+- c
+title: Catalyst
 ---
 
 # Chapter 1: Introduction to Catalyst and Perl

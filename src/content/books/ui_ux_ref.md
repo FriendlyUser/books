@@ -1,9 +1,10 @@
 ---
-tags: ['c']
-title: Designing Delightful User Experiences
 description: A Guide to Crafting Good UI and UX
+imgSrc: https://friendlyuser.github.io/imgs/2023/1086816529.png
 pubDate: Fri, 14 December 2024
-
+tags:
+- c
+title: Designing Delightful User Experiences
 ---
 
 # Introduction: Designing Delightful User Experiences

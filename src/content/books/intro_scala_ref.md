@@ -1,9 +1,10 @@
 ---
-tags: ['c']
-title: Scala for the Impatient
 description: An Introduction to Modern Functional Programming
+imgSrc: https://friendlyuser.github.io/imgs/2023/3750534419.png
 pubDate: Fri, 14 December 2024
-
+tags:
+- c
+title: Scala for the Impatient
 ---
 
 # Introduction: Scala for the Impatient: An Introduction to Modern Functional Programming

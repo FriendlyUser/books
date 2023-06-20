@@ -1,11 +1,13 @@
 ---
-tags: ['go']
-title: Introduction to Go and Command Line Applications
 description: Implementing core linux command line applications in Go
+imgSrc: https://friendlyuser.github.io/imgs/2023/DALL·E 2022-12-25 21.48.12 - teddy
+  bear on coach looking out the window at a tree.png
 pubDate: Fri, 14 December 2024
-
-imgSrc: /imgs/2023/3650963622.png
+tags:
+- go
+title: Introduction to Go and Command Line Applications
 ---
+
 # Chapter 1: Introduction to Golang and Command Line Applications
 
 Why Golang is a good choice for building command line applications?

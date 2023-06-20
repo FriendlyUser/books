@@ -1,9 +1,10 @@
 ---
-tags: ['go']
-title: JavaScript and TypeScript Essentials
 description: A Beginner's Guide to Web Development
+imgSrc: https://friendlyuser.github.io/imgs/2023/424066448.png
 pubDate: Fri, 14 December 2024
-
+tags:
+- go
+title: JavaScript and TypeScript Essentials
 ---
 
 # Chapter 1: Introduction to JavaScript and TypeScript

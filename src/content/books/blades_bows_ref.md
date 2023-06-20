@@ -1,9 +1,10 @@
 ---
-tags: ['c']
-title: Blades and Bows
 description: Weapons of the Warring States Era
+imgSrc: https://friendlyuser.github.io/imgs/2023/358691897_blank_card_on_brown_table.png
 pubDate: Fri, 14 December 2024
-
+tags:
+- c
+title: Blades and Bows
 ---
 
 # Chapter 1: Introduction to the Warring States Era

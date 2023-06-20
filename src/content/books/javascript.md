@@ -1,11 +1,12 @@
 ---
-tags: ['js']
-title: Introduction to Algorithms in JavaScript
 description: Learning Algorithms in Javascript
+imgSrc: https://friendlyuser.github.io/imgs/2023/3619698287.png
 pubDate: Fri, 14 December 2024
-
-imgSrc: /imgs/2023/1302814701.png
+tags:
+- js
+title: Introduction to Algorithms in JavaScript
 ---
+
 # Chapter 1: Introduction to Algorithms
 
 Algorithms are a set of well-defined rules or procedures that are used to solve a problem or perform a task. They are used in many different areas of computer science, including data analysis, artificial intelligence, and software development.

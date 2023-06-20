@@ -1,9 +1,10 @@
 ---
-tags: ['c']
-title: "The Great Deception" 
 description: A Comprehensive History of Ponzi Schemes
+imgSrc: https://friendlyuser.github.io/imgs/2023/1879869613.png
 pubDate: Fri, 14 December 2024
-
+tags:
+- c
+title: The Great Deception
 ---
 
 # Chapter 1: Introduction

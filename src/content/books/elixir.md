@@ -1,9 +1,10 @@
 ---
-tags: ['Erlang ']
-title: Mastering Elixir
 description: An Introduction to Concurrent Programming and Scalable Applications
+imgSrc: https://friendlyuser.github.io/imgs/2023/1411559119.png
 pubDate: Fri, 14 December 2024
-
+tags:
+- 'Erlang '
+title: Mastering Elixir
 ---
 
 # Chapter 1: Introduction to Elixir

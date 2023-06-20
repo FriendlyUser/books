@@ -1,11 +1,11 @@
 ---
-tags: ['c']
-title: "Mainframes and z/OS: The Foundations of Modern Computing"
 description: The Foundations of Modern Computing
+imgSrc: https://friendlyuser.github.io/imgs/2023/262205434.png
 pubDate: Fri, 14 December 2024
-
+tags:
+- c
+title: 'Mainframes and z/OS: The Foundations of Modern Computing'
 ---
-
 
 # Chapter 1: Introduction to Mainframes and z/OS
 
