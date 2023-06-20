@@ -28,8 +28,19 @@ const pagesCollection = defineCollection({
   }),
 });
 
+
+const bookCollection = defineCollection({
+  type: 'content', // v2.5.0 and later
+  schema: z.object({
+    title: z.string(),
+    description: z.string().optional(),
+  }),
+});
+
+
 // Export collections
 export const collections = {
   blog: blogCollection,
   pages: pagesCollection,
+  books: bookCollection,
 };

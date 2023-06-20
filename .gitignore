@@ -26,4 +26,4 @@ package-lock.json
 .astro
 
 src/pages/done
-src/content/done
+src/content/books

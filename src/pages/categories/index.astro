@@ -1,5 +1,5 @@
 ---
-import Blogs from "@components/Blogs.astro";
+import Books from "@components/Books.astro";
 import PageHeader from "@components/PageHeader.astro";
 import Shape from "@components/Shape.astro";
 import BlogCategories from "@components/blog/BlogCategories.astro";
@@ -23,7 +23,7 @@ const categories = await getTaxonomy(blog_folder, "categories");
   <section class="section">
     <div class="container">
       <BlogCategories categories={categories} />
-      <Blogs posts={posts} />
+      <Books posts={posts} />
     </div>
   </section>
 </Base>

@@ -13,6 +13,7 @@
   "dependencies": {
     "@astrojs/image": "^0.16.6",
     "@astrojs/mdx": "^0.19.0",
+    "@astrojs/preact": "^2.0.0",
     "@astrojs/rss": "^2.4.0",
     "astro": "^2.3.2",
     "astro-auto-import": "^0.3.0",
@@ -22,6 +23,7 @@
     "github-slugger": "^2.0.0",
     "gray-matter": "^4.0.3",
     "marked": "^4.3.0",
+    "preact": "^10.7.3",
     "react-feather": "^2.0.10",
     "react-icons": "^4.8.0",
     "react-lite-youtube-embed": "^2.3.52",
@@ -32,6 +34,7 @@
     "swiper": "^9.2.4"
   },
   "devDependencies": {
+    "html-escaper": "^3.0.3",
     "@astrojs/react": "^2.1.1",
     "@astrojs/sitemap": "^1.2.2",
     "@astrojs/tailwind": "^3.1.1",
