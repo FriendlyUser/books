@@ -11,25 +11,23 @@ import {
   FaRegFolder,
   FaRegUserCircle,
 } from "react-icons/fa/index.js";
-import TableOfContents from "./TableOfContents";
 
 const { post } = Astro.props;
 const { Content } = await post.render();
 
 const {  headings } = Astro.props;
-console.log(headings);
 ---
   <section class="section blog-single">
     <div class="container">
       <div class="row justify-center">
         <div class="lg:col-10">
-          <!-- <Image
+          <Image
             class="w-full rounded-xl"
-            src={post.data.image}
+            src={post.data.imgSrc}
             alt=""
             width={920}
             height={450}
-          /> -->
+          />
         </div>
         <div class="mt-10 max-w-[810px] lg:col-9">
           <h1 class="h2">
@@ -68,7 +66,7 @@ console.log(headings);
           </div>
 
           <div class="content">
-            <TableOfContents client:media="(max-width: 50em)" headings={headings} />
+
             <article id="article">
               <Content />
             </article>

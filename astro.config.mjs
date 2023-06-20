@@ -1,7 +1,6 @@
 import image from "@astrojs/image";
 import mdx from "@astrojs/mdx";
 import react from "@astrojs/react";
-import preact from '@astrojs/preact';
 import sitemap from "@astrojs/sitemap";
 import tailwind from "@astrojs/tailwind";
 import AutoImport from "astro-auto-import";
@@ -17,7 +16,6 @@ export default defineConfig({
   trailingSlash: config.site.trailing_slash ? "always" : "never",
   integrations: [
     react(),
-    preact(),
     sitemap(),
     tailwind({
       config: {
