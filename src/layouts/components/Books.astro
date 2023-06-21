@@ -28,6 +28,7 @@ const { posts } = Astro.props;
               {plainify(item.body?.slice(0, Number(summary_length)))}...
             </p>
             <div class="card-footer mt-6 flex space-x-4">
+              {/* 
               <span class="inline-flex items-center text-xs text-[#666]">
                 <svg
                   class="mr-1.5"
@@ -44,6 +45,7 @@ const { posts } = Astro.props;
                 </svg>
                 {dateFormat(item.data.date)}
               </span>
+              */}
               <span class="inline-flex items-center text-xs text-[#666]">
                 <svg
                   class="mr-1.5"
