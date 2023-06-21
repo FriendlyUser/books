@@ -1,7 +1,6 @@
 ---
 description: fun and games
-imgSrc: https://friendlyuser.github.io/imgs/2023/DALL·E 2022-12-25 18.19.55 - astronaut
-  sitting on a present looking at his laptop next to a christmas tree.png
+imgSrc: https://friendlyuser.github.io/imgs/2023/4225416985.png
 page_title: AI generated books, got banned on amazon kdp.
 title: Books
 ---

@@ -2,8 +2,7 @@
 import Books from "@components/Books.astro";
 import PageHeader from "@components/PageHeader.astro";
 import Shape from "@components/Shape.astro";
-import BlogCategories from "@components/blog/BlogCategories.astro";
-import FeaturedBlog from "@components/blog/FeaturedBlog.astro";
+import PageFindSearch from '@layouts/components/Pagefind.astro';
 import config from "@config/config.json";
 import Base from "@layouts/Base.astro";
 import Pagination from "@layouts/components/Pagination.astro";
@@ -18,7 +17,6 @@ const blogIndex = await getEntryBySlug<any, string>(book_folder, "-index");
 const posts = await getSinglePage(book_folder);
 // const categories = await getTaxonomy(config.settings.book_folder, "categories");
 const sortedPosts = sortByDate(posts);
-const featuredPost = sortedPosts.filter((item) => item.data.featured);
 const recentPost = sortedPosts.filter((item) => !item.data.featured);
 const totalPages = Math.ceil(recentPost.length / config.settings.pagination);
 const currentPosts = recentPost.slice(0, config.settings.pagination);
@@ -38,9 +36,9 @@ const currentPosts = recentPost.slice(0, config.settings.pagination);
   </section>
   <section class="section">
     <div class="container">
-      <FeaturedBlog posts={featuredPost} />
       <!-- <BlogCategories categories={categories} /> -->
       <h2 class="h4 mb-4">Recent Books</h2>
+      <PageFindSearch />
       <Books posts={currentPosts} />
       <Pagination
         section={book_folder}

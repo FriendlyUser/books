@@ -1,7 +1,6 @@
 ---
 description: An Introduction to High-Performance Web Services
-imgSrc: https://friendlyuser.github.io/imgs/2023/DALL·E 2023-01-08 20.37.11 - icon
-  of a sword and shield.png
+imgSrc: https://friendlyuser.github.io/imgs/2023/4225416985.png
 pubDate: Fri, 14 December 2024
 tags:
 - c

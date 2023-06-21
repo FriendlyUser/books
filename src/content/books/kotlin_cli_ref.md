@@ -1,6 +1,6 @@
 ---
 description: Implementing core linux command line applications in Kotiln
-imgSrc: https://friendlyuser.github.io/imgs/2023/nature_0.jpeg
+imgSrc: https://friendlyuser.github.io/imgs/2023/118660664.png
 pubDate: Fri, 14 December 2024
 tags:
 - go

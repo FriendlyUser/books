@@ -1,8 +1,7 @@
 ---
 description: 'Transform Your Life with The Miracle Morning: The Not-So-Obvious Secret
   Guaranteed to Transform Your Life'
-imgSrc: https://friendlyuser.github.io/imgs/2023/DALL·E 2022-12-26 21.10.41 - decentralized
-  network diagram simple bobble heads.png
+imgSrc: https://friendlyuser.github.io/imgs/2023/4225416985.png
 pubDate: Fri, 14 December 2024
 tags:
 - c

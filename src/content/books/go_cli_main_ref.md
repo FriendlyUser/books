@@ -1,7 +1,6 @@
 ---
 description: Implementing core linux command line applications in Go
-imgSrc: https://friendlyuser.github.io/imgs/2023/DALL·E 2022-12-25 21.48.12 - teddy
-  bear on coach looking out the window at a tree.png
+imgSrc: https://friendlyuser.github.io/imgs/2023/954954072.png
 pubDate: Fri, 14 December 2024
 tags:
 - go

@@ -1,7 +1,6 @@
 ---
 description: using MongoDB and Typescript
-imgSrc: https://friendlyuser.github.io/imgs/2023/DALL·E 2022-12-29 12.27.48 - ball
-  cartoon on grass red white like pokeball.png
+imgSrc: https://friendlyuser.github.io/imgs/2023/4225416985.png
 pubDate: Fri, 14 December 2024
 tags:
 - go
