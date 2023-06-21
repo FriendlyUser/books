@@ -19,8 +19,8 @@
   },
 
   "call_to_action": {
-    "title": "Helping teams in the world with focus",
-    "description": "Lorem ipsum dolor sit sed dmi amet, consectetur adipiscing. Cdo tellus, sed condimentum volutpat.",
+    "title": "Helping spread knowledge in the world with focus",
+    "description": "Using knowledge to help others.",
     "button": {
       "label": "Download The Theme",
       "link": "https://github.com/FriendlyUser/books"
@@ -29,21 +29,21 @@
 
   "disqus": {
     "enable": true,
-    "shortname": "themefisher-template",
+    "shortname": "books",
     "settings": {}
   },
 
   "params": {
-    "footer_description": "Lorem ipsum dolor sit sed dmi amet, consectetur adipiscing. Cdo tellus, sed condimentum volutpat.",
-    "email": "info@andromeda.io",
-    "location": "2118 Thornridge Cir. Syracuse, Connecticut 35624",
+    "footer_description": "Trying to make the world a better place.",
+    "email": "colourfulmerchtik@gmail.com",
+    "location": "Somewhere in Canada",
     "phone": "+704-555-0127",
     "contact_form_action": "#",
-    "copyright": "Copyright © 2023 a theme by [Themefisher](https://themefisher.com)"
+    "copyright": "Copyright © 2023"
   },
 
   "metadata": {
-    "meta_author": "Themefisher",
+    "meta_author": "FriendlyUser",
     "meta_image": "/images/og-image.png",
     "meta_description": "pinwheel astro"
   }
