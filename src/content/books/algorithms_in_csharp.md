@@ -1,6 +1,6 @@
 ---
 description: A Beginner’s Guide to Learning Algorithms with CSharp
-imgSrc: https://friendlyuser.github.io/imgs/2023/2766162233.png
+imgSrc: https://friendlyuser.github.io/imgs/2023/1444932837.png
 pubDate: Fri, 14 December 2024
 tags:
 - csharp

@@ -1,6 +1,6 @@
 ---
 description: Navigating Love in the Digital Age
-imgSrc: https://friendlyuser.github.io/imgs/2023/1091373203.png
+imgSrc: https://friendlyuser.github.io/imgs/2023/3382720876.png
 pubDate: Fri, 14 December 2024
 tags:
 - c

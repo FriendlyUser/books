@@ -1,10 +1,13 @@
 ---
-tags: ['swift']
-title: Swift Programming for Beginners
 description: A Comprehensive Guide to Learning Swift Programming Language
+imgSrc: https://friendlyuser.github.io/imgs/2023/1373682361.png
+
 pubDate: Fri, 14 December 2024
-layout: "@/templates/BasePost.astro"
+tags:
+- swift
+title: Swift Programming for Beginners
 ---
+
 # Chapter 1: Introduction to Swift
 ## Overview of Swift programming language
 Swift is a powerful and user-friendly programming language that is widely used for developing iOS, macOS, and other Apple platform applications. It was introduced by Apple in 2014 and has since gained immense popularity among developers due to its modern syntax, speed, and safety. Swift is designed to work seamlessly with Objective-C, and it offers a range of features and capabilities that make it an ideal choice for building modern applications. In this book, we will cover the basics of Swift programming, including data types, control structures, functions, and object-oriented programming principles, and explore how to use Swift to develop practical, real-world applications.

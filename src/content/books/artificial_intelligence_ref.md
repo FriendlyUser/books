@@ -1,11 +1,12 @@
 ---
-tags: ['c']
-title: From Turing to Transformers
 description: A Journey Through the History of Artificial Intelligence
-pubDate: Fri, 14 December 2024
-layout: "@/templates/BasePost.astro"
----
+imgSrc: https://friendlyuser.github.io/imgs/2023/2062539924.png
 
+pubDate: Fri, 14 December 2024
+tags:
+- c
+title: From Turing to Transformers
+---
 
 # Chapter 1: The Birth of AI
 

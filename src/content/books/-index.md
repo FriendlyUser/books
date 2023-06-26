@@ -1,6 +1,6 @@
 ---
 description: fun and games
-imgSrc: https://friendlyuser.github.io/imgs/2023/4225416985.png
+imgSrc: https://friendlyuser.github.io/imgs/2023/2338311710.png
 page_title: AI generated books, got banned on amazon kdp.
 title: Books
 ---

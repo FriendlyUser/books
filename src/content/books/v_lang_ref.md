@@ -1,6 +1,6 @@
 ---
 description: An Introduction to Fast, Safe, and Productive Systems Programming
-imgSrc: https://friendlyuser.github.io/imgs/2023/1144941208.png
+imgSrc: https://friendlyuser.github.io/imgs/2023/549017699.png
 pubDate: Fri, 14 December 2024
 tags:
 - c

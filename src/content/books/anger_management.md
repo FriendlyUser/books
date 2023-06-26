@@ -1,6 +1,6 @@
 ---
 description: A Guide to Mastering Angry Management
-imgSrc: https://friendlyuser.github.io/imgs/2023/3382720876.png
+imgSrc: https://friendlyuser.github.io/imgs/2023/549017699.png
 pubDate: Fri, 14 December 2024
 tags:
 - c

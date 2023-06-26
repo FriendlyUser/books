@@ -1,6 +1,6 @@
 ---
 description: A Comprehensive Guide to Using Data for Better Decision Making
-imgSrc: https://friendlyuser.github.io/imgs/2023/bear_book_2.png
+imgSrc: https://friendlyuser.github.io/imgs/2023/1924742632.png
 pubDate: Fri, 14 December 2024
 tags:
 - Clojure

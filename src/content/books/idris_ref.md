@@ -1,6 +1,6 @@
 ---
 description: A Comprehensive Guide to Safe and Correct Software Development
-imgSrc: https://friendlyuser.github.io/imgs/2023/2575289368.png
+imgSrc: https://friendlyuser.github.io/imgs/2023/burger.jpg
 pubDate: Fri, 14 December 2024
 tags:
 - c

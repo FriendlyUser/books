@@ -1,6 +1,6 @@
 ---
 description: An Introduction to In-Memory Data Structure Store
-imgSrc: https://friendlyuser.github.io/imgs/2023/2679960937.png
+imgSrc: https://friendlyuser.github.io/imgs/2023/3170249337.png
 pubDate: Fri, 14 December 2024
 tags:
 - 'Erlang '

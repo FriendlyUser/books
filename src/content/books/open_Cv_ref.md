@@ -1,10 +1,13 @@
 ---
-tags: ['c']
-title: Introduction to Computer Vision with OpenCV and Python
 description: A Beginner's Guide
+imgSrc: https://friendlyuser.github.io/imgs/2023/3280960381.png
+
 pubDate: Fri, 14 December 2024
-layout: "@/templates/BasePost.astro"
+tags:
+- c
+title: Introduction to Computer Vision with OpenCV and Python
 ---
+
 # Chapter 1: Introduction to Computer Vision
 ## Overview of computer vision
 Computer vision is a field of study that focuses on enabling computers to interpret and understand visual information from the world. It involves developing algorithms and techniques that can analyze and interpret digital images and videos, allowing machines to make sense of the visual data they receive. Computer vision has a wide range of applications, from object recognition and tracking to face detection and image classification. It is used in industries such as healthcare, automotive, and security, among others. OpenCV and Python are popular tools used in computer vision for developing and implementing algorithms and techniques.

@@ -1,6 +1,6 @@
 ---
 description: Advanced Techniques for Building Custom Databases
-imgSrc: https://friendlyuser.github.io/imgs/2023/1094181859.png
+imgSrc: https://friendlyuser.github.io/imgs/2023/3267094508_short_ruler_in_the_grass.png
 pubDate: Fri, 14 December 2024
 tags:
 - c

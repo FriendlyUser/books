@@ -1,11 +1,12 @@
 ---
-tags: ['c']
-title: Bronze
 description: The Alloy that Forged Civilization
-pubDate: Fri, 14 December 2024
-layout: "@/templates/BasePost.astro"
----
+imgSrc: https://friendlyuser.github.io/imgs/2023/1312348161.png
 
+pubDate: Fri, 14 December 2024
+tags:
+- c
+title: Bronze
+---
 
 # Chapter 1: Introduction to Bronze
 

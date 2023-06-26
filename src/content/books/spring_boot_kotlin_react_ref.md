@@ -1,11 +1,12 @@
 ---
-tags: ['c']
-title: Full-Stack Development with Spring Boot in Kotlin and React
 description: Building Modern Web Applications
-pubDate: Fri, 14 December 2024
-layout: "@/templates/BasePost.astro"
----
+imgSrc: https://friendlyuser.github.io/imgs/2023/1651429035.png
 
+pubDate: Fri, 14 December 2024
+tags:
+- c
+title: Full-Stack Development with Spring Boot in Kotlin and React
+---
 
 # Chapter 1: Introduction
 

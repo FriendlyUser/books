@@ -1,11 +1,12 @@
 ---
-tags: ['c']
-title: Julia Programming for Beginners
 description: A Step-by-Step Guide to Getting Started with Julia
-pubDate: Fri, 14 December 2024
-layout: "@/templates/BasePost.astro"
----
+imgSrc: https://friendlyuser.github.io/imgs/2023/2844566079.png
 
+pubDate: Fri, 14 December 2024
+tags:
+- c
+title: Julia Programming for Beginners
+---
 
 # Chapter 1: Introduction to Julia Programming
 

@@ -1,6 +1,6 @@
 ---
 description: 'Historical Technologies Shifts: Navigating the Era of AI'
-imgSrc: https://friendlyuser.github.io/imgs/2023/236867349.png
+imgSrc: https://friendlyuser.github.io/imgs/2023/4046799380_Scrapping_oil_off_a_painting.png
 pubDate: Fri, 14 December 2024
 tags:
 - c

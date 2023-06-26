@@ -1,6 +1,6 @@
 ---
 description: An Introduction to Web Development with ColdFusion
-imgSrc: https://friendlyuser.github.io/imgs/2023/investing.png
+imgSrc: https://friendlyuser.github.io/imgs/2023/3437532028.png
 pubDate: Fri, 14 December 2024
 tags:
 - c

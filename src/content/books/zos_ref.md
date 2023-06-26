@@ -1,6 +1,6 @@
 ---
 description: The Foundations of Modern Computing
-imgSrc: https://friendlyuser.github.io/imgs/2023/262205434.png
+imgSrc: https://friendlyuser.github.io/imgs/2023/1666734888.png
 pubDate: Fri, 14 December 2024
 tags:
 - c

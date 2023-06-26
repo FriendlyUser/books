@@ -1,6 +1,6 @@
 ---
 description: The Key to Success
-imgSrc: https://friendlyuser.github.io/imgs/2023/2575289368.png
+imgSrc: https://friendlyuser.github.io/imgs/2023/2228775041.png
 pubDate: Fri, 14 December 2024
 tags:
 - c

@@ -1,6 +1,6 @@
 ---
 description: A Beginner's Guide to Web Development
-imgSrc: https://friendlyuser.github.io/imgs/2023/424066448.png
+imgSrc: https://friendlyuser.github.io/imgs/2023/3054188082.png
 pubDate: Fri, 14 December 2024
 tags:
 - go

@@ -1,6 +1,6 @@
 ---
 description: A Comprehensive Guide to Building Web Scrapers
-imgSrc: https://friendlyuser.github.io/imgs/2023/303236472.png
+imgSrc: https://friendlyuser.github.io/imgs/2023/1538101898.png
 pubDate: Fri, 14 December 2024
 tags:
 - c

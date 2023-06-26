@@ -1,11 +1,13 @@
 ---
-tags: ['c']
-title: Practical Elm
-description: Building Scalable and Maintainable Front-End Applications with Elm Programming Language
-pubDate: Fri, 14 December 2024
-layout: "@/templates/BasePost.astro"
----
+description: Building Scalable and Maintainable Front-End Applications with Elm Programming
+  Language
+imgSrc: https://friendlyuser.github.io/imgs/2023/pokedex_types.png
 
+pubDate: Fri, 14 December 2024
+tags:
+- c
+title: Practical Elm
+---
 
 # Chapter 1: Introduction to Elm
 

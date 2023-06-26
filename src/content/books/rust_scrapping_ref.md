@@ -1,10 +1,14 @@
 ---
-tags: ['Rust ']
-title: Rust Web Scraping
-description: A Practical Guide to Building Robust and Fast Web Scrapers with Rust Programming Language
+description: A Practical Guide to Building Robust and Fast Web Scrapers with Rust
+  Programming Language
+imgSrc: https://friendlyuser.github.io/imgs/2023/1047200128.png
+
 pubDate: Fri, 14 December 2024
-layout: "@/templates/BasePost.astro"
+tags:
+- 'Rust '
+title: Rust Web Scraping
 ---
+
 # Chapter 1: Introduction
 ## Explanation of what web scraping is and its importance
 Web scraping is the process of extracting data from websites automatically using software programs called web scrapers. Web scraping is important because it enables individuals and organizations to collect data from websites at scale and automate tasks that would otherwise be too time-consuming or impossible to do manually. With web scraping, you can extract data from websites and use it for a variety of purposes such as data analysis, research, machine learning, and business intelligence.

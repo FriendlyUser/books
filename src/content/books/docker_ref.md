@@ -1,6 +1,6 @@
 ---
 description: A Comprehensive Guide to Efficient Containerization
-imgSrc: https://friendlyuser.github.io/imgs/2023/3847215807.png
+imgSrc: https://friendlyuser.github.io/imgs/2023/1635327465.png
 pubDate: Fri, 14 December 2024
 tags:
 - c

@@ -1,6 +1,6 @@
 ---
 description: An Introduction to Concurrent Programming and Scalable Applications
-imgSrc: https://friendlyuser.github.io/imgs/2023/1411559119.png
+imgSrc: https://friendlyuser.github.io/imgs/2023/611034810.png
 pubDate: Fri, 14 December 2024
 tags:
 - 'Erlang '

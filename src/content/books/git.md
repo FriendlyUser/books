@@ -1,6 +1,6 @@
 ---
 description: A Comprehensive Guide to Version Control and Collaboration with Git
-imgSrc: https://friendlyuser.github.io/imgs/2023/590655340.png
+imgSrc: https://friendlyuser.github.io/imgs/2023/1693067648.png
 pubDate: Fri, 14 December 2024
 tags:
 - c

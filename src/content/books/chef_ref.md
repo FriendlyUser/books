@@ -1,6 +1,6 @@
 ---
 description: Streamline Your Infrastructure and Deployment Processes
-imgSrc: https://friendlyuser.github.io/imgs/2023/powell_ANGRY.png
+imgSrc: https://friendlyuser.github.io/imgs/2023/2465919888.png
 pubDate: Fri, 14 December 2024
 tags:
 - c

@@ -1,6 +1,6 @@
 ---
 description: Building Modern APIs with GraphQL and Apollo
-imgSrc: https://friendlyuser.github.io/imgs/2023/2378078723.png
+imgSrc: https://friendlyuser.github.io/imgs/2023/2966567085.png
 pubDate: Fri, 14 December 2024
 tags:
 - c

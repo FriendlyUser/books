@@ -1,7 +1,6 @@
 ---
 description: A Hands-On Guide to Learning React through Real-World Applications
-imgSrc: https://friendlyuser.github.io/imgs/2023/DALL·E 2023-01-07 13.46.29 - banana
-  spaceship.png
+imgSrc: https://friendlyuser.github.io/imgs/2023/267929881.png
 pubDate: Fri, 14 December 2024
 tags:
 - react

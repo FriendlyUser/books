@@ -1,6 +1,6 @@
 ---
 description: A Comprehensive Guide to Building Scalable and Secure Web Applications
-imgSrc: https://friendlyuser.github.io/imgs/2023/3053072516.png
+imgSrc: https://friendlyuser.github.io/imgs/2023/nature_0.jpeg
 pubDate: Fri, 14 December 2024
 tags:
 - c

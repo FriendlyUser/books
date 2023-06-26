@@ -1,11 +1,12 @@
 ---
-tags: ['c']
-title: Mastering CSS
 description: Advanced Techniques and Best Practices for Responsive Web Design
-pubDate: Fri, 14 December 2024
-layout: "@/templates/BasePost.astro"
----
+imgSrc: https://friendlyuser.github.io/imgs/2023/611034810.png
 
+pubDate: Fri, 14 December 2024
+tags:
+- c
+title: Mastering CSS
+---
 
 # Chapter 1: Introduction to Advanced CSS Concepts
 

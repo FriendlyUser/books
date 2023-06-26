@@ -1,6 +1,6 @@
 ---
 description: A Beginner's Guide to Building Wealth Through Property Investment
-imgSrc: https://friendlyuser.github.io/imgs/2023/4046799380_Scrapping_oil_off_a_painting.png
+imgSrc: https://friendlyuser.github.io/imgs/2023/744380791.png
 pubDate: Fri, 14 December 2024
 tags:
 - yml

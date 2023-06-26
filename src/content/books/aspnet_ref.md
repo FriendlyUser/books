@@ -1,6 +1,6 @@
 ---
 description: A Comprehensive Guide for Beginners
-imgSrc: https://friendlyuser.github.io/imgs/2023/2785394646.png
+imgSrc: https://friendlyuser.github.io/imgs/2023/3185275103.png
 pubDate: Fri, 14 December 2024
 tags:
 - c

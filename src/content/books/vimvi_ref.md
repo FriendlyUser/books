@@ -1,11 +1,13 @@
 ---
-tags: ['express', 'typescript']
-title: Mastering Vim, Vi, and Neovim
 description: Advanced Techniques for Efficient Text Editing and Productivity
-pubDate: Fri, 14 December 2024
-layout: "@/templates/BasePost.astro"
----
+imgSrc: https://friendlyuser.github.io/imgs/2023/2861854918.png
 
+pubDate: Fri, 14 December 2024
+tags:
+- express
+- typescript
+title: Mastering Vim, Vi, and Neovim
+---
 
 # Chapter 1: Introduction to Vim, Vi, and Neovim
 

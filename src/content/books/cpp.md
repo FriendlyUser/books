@@ -1,6 +1,6 @@
 ---
 description: A Beginner’s Guide to Learning Ruby
-imgSrc: https://friendlyuser.github.io/imgs/2023/3921645129.png
+imgSrc: https://friendlyuser.github.io/imgs/2023/117117315.png
 pubDate: Fri, 14 December 2024
 tags:
 - c

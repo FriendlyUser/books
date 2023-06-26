@@ -1,6 +1,6 @@
 ---
 description: Introduction to Vue by building projects
-imgSrc: https://friendlyuser.github.io/imgs/2023/803232156.png
+imgSrc: https://friendlyuser.github.io/imgs/2023/611034810.png
 pubDate: Fri, 14 December 2024
 tags:
 - vue

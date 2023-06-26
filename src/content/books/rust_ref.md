@@ -1,10 +1,14 @@
 ---
-tags: ['c']
-title: Algorithms Unleashed - A Comprehensive Introduction to Programming Algorithms in Rust
 description: A Comprehensive Introduction to Programming Algorithms in Rust
+imgSrc: https://friendlyuser.github.io/imgs/2023/2861854918.png
+
 pubDate: Fri, 14 December 2024
-layout: "@/templates/BasePost.astro"
+tags:
+- c
+title: Algorithms Unleashed - A Comprehensive Introduction to Programming Algorithms
+  in Rust
 ---
+
 # Introduction: Algorithms Unleashed - A Comprehensive Introduction to Programming Algorithms in Rust
 ## Introduce the importance of algorithms in computer science and programming.
 Algorithms are at the heart of computer science and programming. They are sets of instructions that tell a computer how to solve a problem. Almost every software application or computer system utilizes some kind of algorithm to accomplish its tasks. Algorithms can be used for a variety of purposes such as sorting data, searching for data, and optimizing processes. Understanding algorithms is crucial for anyone who wants to become a proficient programmer or computer scientist, as they are an essential building block of computer software. In this book, we will focus on programming algorithms in Rust, a high-performance and modern programming language, to help readers develop a deep understanding of this important topic.

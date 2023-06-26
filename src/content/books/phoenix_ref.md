@@ -1,6 +1,6 @@
 ---
 description: Mastering Backend Development with Phoenix and Erlang
-imgSrc: https://friendlyuser.github.io/imgs/2023/4065959670.png
+imgSrc: https://friendlyuser.github.io/imgs/2023/611034810.png
 pubDate: Fri, 14 December 2024
 tags:
 - 'Erlang '

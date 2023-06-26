@@ -1,6 +1,6 @@
 ---
 description: Understanding Life’s Biggest Questions
-imgSrc: https://friendlyuser.github.io/imgs/2023/3054188082.png
+imgSrc: https://friendlyuser.github.io/imgs/2023/2075079294_A_dream_of_a_distant_galaxy__concept_art.png
 pubDate: Fri, 14 December 2024
 tags:
 - go

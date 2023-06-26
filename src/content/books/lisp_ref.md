@@ -1,11 +1,12 @@
 ---
-tags: ['c']
-title: Mastering Lisp
 description: A Comprehensive Guide to Modern Programming
-pubDate: Fri, 14 December 2024
-layout: "@/templates/BasePost.astro"
----
+imgSrc: https://friendlyuser.github.io/imgs/2023/1047200128.png
 
+pubDate: Fri, 14 December 2024
+tags:
+- c
+title: Mastering Lisp
+---
 
 # Introduction: Mastering Lisp: A Comprehensive Guide to Modern Programming
 
@@ -7176,5 +7177,3 @@ Q: What are some famous software projects written in Lisp?
 A: Some notable software projects written in Lisp include Emacs, the AllegroGraph graph database, the ITA Software flight search system (now part of Google Flights), and the Xanalys DMS information retrieval and visualization tool. These projects demonstrate the versatility and capabilities of Lisp in real-world applications.
 
 These are just a few common questions and answers about Lisp. Lisp's rich history and unique features make it an interesting and sometimes challenging language, but its expressive power and metaprogramming capabilities make it a valuable tool for various domains of programming.
-
-

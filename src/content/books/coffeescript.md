@@ -1,6 +1,6 @@
 ---
 description: An Introduction to Web Development with CoffeeScript
-imgSrc: https://friendlyuser.github.io/imgs/2023/1113292628.png
+imgSrc: https://friendlyuser.github.io/imgs/2023/1047200128.png
 pubDate: Fri, 14 December 2024
 tags:
 - c

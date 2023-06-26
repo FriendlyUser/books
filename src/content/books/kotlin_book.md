@@ -1,6 +1,6 @@
 ---
 description: Kotlin is a modern, open-source programming language developed by JetBrains
-imgSrc: https://friendlyuser.github.io/imgs/2023/118660664.png
+imgSrc: https://friendlyuser.github.io/imgs/2023/611034810.png
 pubDate: Fri, 14 December 2024
 tags:
 - java

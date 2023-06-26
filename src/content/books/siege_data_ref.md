@@ -1,6 +1,6 @@
 ---
 description: Epic Battles and the Weapons that Changed the Course of History
-imgSrc: https://friendlyuser.github.io/imgs/2023/3437532028.png
+imgSrc: https://friendlyuser.github.io/imgs/2023/2896017845.png
 pubDate: Fri, 14 December 2024
 tags:
 - c

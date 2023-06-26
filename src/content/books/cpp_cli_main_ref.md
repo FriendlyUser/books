@@ -1,6 +1,6 @@
 ---
 description: Implementing core linux command line applications in C++
-imgSrc: https://friendlyuser.github.io/imgs/2023/633020239.png
+imgSrc: https://friendlyuser.github.io/imgs/2023/3847215807.png
 pubDate: Fri, 14 December 2024
 tags:
 - go

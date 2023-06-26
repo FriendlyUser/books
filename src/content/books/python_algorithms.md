@@ -1,10 +1,11 @@
 ---
-tags: ['c']
-title: Introduction to Algorithms in Python
 description: A Beginner’s Guide to Learning Ruby
+imgSrc: https://friendlyuser.github.io/imgs/2023/1028024527.png
+
 pubDate: Fri, 14 December 2024
-layout: "@/templates/BasePost.astro"
-imgSrc: /imgs/2023/3421264397.png
+tags:
+- c
+title: Introduction to Algorithms in Python
 ---
 
 --- TODO finish excerises

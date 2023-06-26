@@ -1,6 +1,6 @@
 ---
 description: Implementing core linux command line applications in Dart
-imgSrc: https://friendlyuser.github.io/imgs/2023/2844566079.png
+imgSrc: https://friendlyuser.github.io/imgs/2023/729981546.png
 pubDate: Fri, 14 December 2024
 tags:
 - dart

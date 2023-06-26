@@ -1,6 +1,6 @@
 ---
 description: An Introduction to Backend Development
-imgSrc: https://friendlyuser.github.io/imgs/2023/954954072.png
+imgSrc: https://friendlyuser.github.io/imgs/2023/investing.png
 pubDate: Fri, 14 December 2024
 tags:
 - go

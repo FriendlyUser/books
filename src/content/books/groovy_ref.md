@@ -1,6 +1,6 @@
 ---
 description: An Introduction to Programming with Groovy
-imgSrc: https://friendlyuser.github.io/imgs/2023/323056288.png
+imgSrc: https://friendlyuser.github.io/imgs/2023/611034810.png
 pubDate: Fri, 14 December 2024
 tags:
 - c

@@ -1,6 +1,6 @@
 ---
 description: Building High-Performance and Fault-Tolerant Crawlers
-imgSrc: https://friendlyuser.github.io/imgs/2023/226878303.png
+imgSrc: https://friendlyuser.github.io/imgs/2023/2212319789.png
 pubDate: Fri, 14 December 2024
 tags:
 - c

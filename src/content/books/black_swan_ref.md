@@ -1,11 +1,12 @@
 ---
-tags: ['c']
-title: Black Swan Events in Stock Market History
 description: Understanding the Impact of Unpredictable Events on Investments
-pubDate: Fri, 14 December 2024
-layout: "@/templates/BasePost.astro"
----
+imgSrc: https://friendlyuser.github.io/imgs/2023/2677360986.png
 
+pubDate: Fri, 14 December 2024
+tags:
+- c
+title: Black Swan Events in Stock Market History
+---
 
 # Chapter 1: What Are Black Swan Events?
 
@@ -7864,4 +7865,3 @@ Here is a glossary of key terms and concepts related to investing:
 * **Return:** The profit or loss that an investor makes on an investment.
 * **Stock:** A share of ownership in a company.
 * **Bond:** A loan that an investor makes to a company or government.
-

@@ -1,7 +1,7 @@
 ---
 description: Algorithms are a set of instructions or procedures that are used to solve
   a particular problem or accomplish a particular task
-imgSrc: https://friendlyuser.github.io/imgs/2023/1031426508.png
+imgSrc: https://friendlyuser.github.io/imgs/2023/2776175216.png
 pubDate: Fri, 14 December 2024
 tags:
 - jsx

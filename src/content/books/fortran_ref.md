@@ -1,6 +1,6 @@
 ---
 description: Introduction to scientific computing with FORTRAN
-imgSrc: https://friendlyuser.github.io/imgs/2023/117117315.png
+imgSrc: https://friendlyuser.github.io/imgs/2023/611034810.png
 pubDate: Fri, 14 December 2024
 tags:
 - go

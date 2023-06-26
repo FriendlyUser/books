@@ -1,11 +1,12 @@
 ---
-tags: ['c']
-title: Crash and Burn
 description: Epic Fails and Misfortunes of Wall Street
-pubDate: Fri, 14 December 2024
-layout: "@/templates/BasePost.astro"
----
+imgSrc: https://friendlyuser.github.io/imgs/2023/2785952400.png
 
+pubDate: Fri, 14 December 2024
+tags:
+- c
+title: Crash and Burn
+---
 
 # Chapter 1: The Panic of 1792
 

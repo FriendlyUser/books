@@ -1,6 +1,6 @@
 ---
 description: Building Cross-Platform Desktop Apps with Web Technologies
-imgSrc: https://friendlyuser.github.io/imgs/2023/3194903180.png
+imgSrc: https://friendlyuser.github.io/imgs/2023/492664568.png
 pubDate: Fri, 14 December 2024
 tags:
 - c

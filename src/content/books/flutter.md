@@ -1,7 +1,7 @@
 ---
 description: 'Building Beautiful and Fast Mobile Apps with Dart and Flutter: A Comprehensive
   Guide for Beginners'
-imgSrc: https://friendlyuser.github.io/imgs/2023/3170249337.png
+imgSrc: https://friendlyuser.github.io/imgs/2023/186810635.png
 pubDate: Fri, 14 December 2024
 tags:
 - bash

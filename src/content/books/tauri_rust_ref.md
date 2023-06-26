@@ -1,11 +1,12 @@
 ---
-tags: ['c']
-title: Empowering Web Developers
 description: Building Desktop Apps with Tauri
-pubDate: Fri, 14 December 2024
-layout: "@/templates/BasePost.astro"
----
+imgSrc: https://friendlyuser.github.io/imgs/2023/454515535.png
 
+pubDate: Fri, 14 December 2024
+tags:
+- c
+title: Empowering Web Developers
+---
 
 # Chapter 1: Introduction to Tauri and Desktop Application Development
 

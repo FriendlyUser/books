@@ -1,11 +1,12 @@
 ---
-tags: ['c']
-title: On the Move
 description: An Illustrated History of Transportation
-pubDate: Fri, 14 December 2024
-layout: "@/templates/BasePost.astro"
----
+imgSrc: https://friendlyuser.github.io/imgs/2023/3870845711.png
 
+pubDate: Fri, 14 December 2024
+tags:
+- c
+title: On the Move
+---
 
 # Chapter 1: The Early Days of Transportation
 

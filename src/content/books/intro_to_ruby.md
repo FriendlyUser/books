@@ -1,6 +1,6 @@
 ---
 description: A Beginner’s Guide to Learning Ruby
-imgSrc: https://friendlyuser.github.io/imgs/2023/3541980154.png
+imgSrc: https://friendlyuser.github.io/imgs/2023/2239424688.png
 pubDate: Fri, 14 December 2024
 tags:
 - jsx

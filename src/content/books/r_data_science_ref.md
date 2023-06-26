@@ -1,10 +1,13 @@
 ---
-tags: ['c']
-title: R Programming for Data Science
 description: A Beginner's Guide to Getting Started with R
+imgSrc: https://friendlyuser.github.io/imgs/2023/3185275103.png
+
 pubDate: Fri, 14 December 2024
-layout: "@/templates/BasePost.astro"
+tags:
+- c
+title: R Programming for Data Science
 ---
+
 # Introduction
 ## The basics of data science and why R is a popular choice for data analysis
 Data science is a field that combines domain knowledge, programming skills, and statistical methods to extract knowledge and insights from data. Data scientists use a variety of tools and techniques to collect, clean, analyze, and visualize data. They then use this information to solve problems, make predictions, and improve decision-making.

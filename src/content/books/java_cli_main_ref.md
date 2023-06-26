@@ -1,6 +1,6 @@
 ---
 description: Implementing core linux command line applications in Java
-imgSrc: https://friendlyuser.github.io/imgs/2023/3054188082.png
+imgSrc: https://friendlyuser.github.io/imgs/2023/2861854918.png
 pubDate: Fri, 14 December 2024
 tags:
 - go

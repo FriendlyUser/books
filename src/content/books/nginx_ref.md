@@ -1,6 +1,6 @@
 ---
 description: Advanced Techniques for Configuring and Optimizing Servers
-imgSrc: https://friendlyuser.github.io/imgs/2023/3063879952.png
+imgSrc: https://friendlyuser.github.io/imgs/2023/music_album.jpg
 pubDate: Fri, 14 December 2024
 tags:
 - c

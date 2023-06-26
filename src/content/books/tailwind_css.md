@@ -1,6 +1,6 @@
 ---
 description: Introduction to CSS with Tailwind
-imgSrc: https://friendlyuser.github.io/imgs/2023/1398850108.png
+imgSrc: https://friendlyuser.github.io/imgs/2023/3437532028.png
 pubDate: Fri, 14 December 2024
 tags:
 - c

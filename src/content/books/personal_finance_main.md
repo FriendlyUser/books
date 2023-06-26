@@ -1,6 +1,6 @@
 ---
 description: A Practical Guide to Building Wealth and Financial Freedom
-imgSrc: https://friendlyuser.github.io/imgs/2023/3063879952.png
+imgSrc: https://friendlyuser.github.io/imgs/2023/2966567085.png
 pubDate: Fri, 14 December 2024
 tags:
 - c

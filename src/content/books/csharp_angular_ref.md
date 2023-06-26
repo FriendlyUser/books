@@ -1,6 +1,6 @@
 ---
 description: Building Modern Web Applications
-imgSrc: https://friendlyuser.github.io/imgs/2023/492664568.png
+imgSrc: https://friendlyuser.github.io/imgs/2023/1575571770.png
 pubDate: Fri, 14 December 2024
 tags:
 - c

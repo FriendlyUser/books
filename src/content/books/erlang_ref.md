@@ -1,6 +1,6 @@
 ---
 description: An Introduction to Concurrent and Distributed Programming with OTP
-imgSrc: https://friendlyuser.github.io/imgs/2023/3598219737.png
+imgSrc: https://friendlyuser.github.io/imgs/2023/1637557246.png
 pubDate: Fri, 14 December 2024
 tags:
 - 'Erlang '

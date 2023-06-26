@@ -1,6 +1,6 @@
 ---
 description: An Introduction to Modern Functional Programming
-imgSrc: https://friendlyuser.github.io/imgs/2023/3750534419.png
+imgSrc: https://friendlyuser.github.io/imgs/2023/241285989.png
 pubDate: Fri, 14 December 2024
 tags:
 - c

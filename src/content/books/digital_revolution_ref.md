@@ -1,11 +1,12 @@
 ---
-tags: ['c']
-title: The Aging Mind
 description: Understanding Cognitive Decline in the Elderly
-pubDate: Fri, 14 December 2024
-layout: "@/templates/BasePost.astro"
----
+imgSrc: https://friendlyuser.github.io/imgs/2023/1710982917.png
 
+pubDate: Fri, 14 December 2024
+tags:
+- c
+title: The Aging Mind
+---
 
 # Chapter 1: The Origins of the Digital Revolution
 

@@ -1,7 +1,7 @@
 ---
 description: A Practical Guide to Using Scripts and APIs for Efficient Spreadsheet
   Management
-imgSrc: https://friendlyuser.github.io/imgs/2023/326029388.png
+imgSrc: https://friendlyuser.github.io/imgs/2023/3658824416.png
 pubDate: Fri, 14 December 2024
 tags:
 - c

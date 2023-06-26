@@ -1,6 +1,6 @@
 ---
 description: A Comprehensive Guide to Building Smart Contracts on the Ethereum Blockchain
-imgSrc: https://friendlyuser.github.io/imgs/2023/26597731.png
+imgSrc: https://friendlyuser.github.io/imgs/2023/1651429035.png
 pubDate: Fri, 14 December 2024
 tags:
 - c

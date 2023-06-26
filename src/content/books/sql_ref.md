@@ -1,7 +1,6 @@
 ---
 description: Introduction to SQL
-imgSrc: https://friendlyuser.github.io/imgs/2023/DALL·E 2022-12-25 18.19.55 - astronaut
-  sitting on a present looking at his laptop next to a christmas tree.png
+imgSrc: https://friendlyuser.github.io/imgs/2023/2269624161_forest.png
 pubDate: Fri, 14 December 2024
 tags:
 - sql

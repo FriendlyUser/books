@@ -1,6 +1,6 @@
 ---
 description: Exploring the Complexities of Human Nature
-imgSrc: https://friendlyuser.github.io/imgs/2023/4252050732.png
+imgSrc: https://friendlyuser.github.io/imgs/2023/4264430676.png
 pubDate: Fri, 14 December 2024
 tags:
 - c

@@ -1,6 +1,6 @@
 ---
 description: Implementing core linux command line applications in Rust
-imgSrc: https://friendlyuser.github.io/imgs/2023/1678591372_a_blade_in_the_desert_under_the_sun.png
+imgSrc: https://friendlyuser.github.io/imgs/2023/2861854918.png
 pubDate: Fri, 14 December 2024
 tags:
 - rust

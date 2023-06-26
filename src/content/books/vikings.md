@@ -1,6 +1,6 @@
 ---
 description: Raiders and Warriors of the North and Their Weapons
-imgSrc: https://friendlyuser.github.io/imgs/2023/2966567085.png
+imgSrc: https://friendlyuser.github.io/imgs/2023/1091373203.png
 pubDate: Fri, 14 December 2024
 tags:
 - c

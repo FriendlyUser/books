@@ -1,11 +1,12 @@
 ---
-tags: ['c']
-title: Jumpstart Your Knowledge Base
 description: A Beginner's Guide to MediaWiki
-pubDate: Fri, 14 December 2024
-layout: "@/templates/BasePost.astro"
----
+imgSrc: https://friendlyuser.github.io/imgs/2023/2466346852.png
 
+pubDate: Fri, 14 December 2024
+tags:
+- c
+title: Jumpstart Your Knowledge Base
+---
 
 # Chapter 1: Introduction to MediaWiki
 

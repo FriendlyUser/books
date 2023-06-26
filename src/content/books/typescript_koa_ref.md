@@ -1,8 +1,7 @@
 ---
 description: Koa is a web framework designed to simplify the creation of web applications
   and APIs in Node.js
-imgSrc: https://friendlyuser.github.io/imgs/2023/DALL·E 2022-12-17 17.59.40 - book
-  being placed into bookshelf in a library.png
+imgSrc: https://friendlyuser.github.io/imgs/2023/733581468.png
 pubDate: Fri, 14 December 2024
 tags:
 - c

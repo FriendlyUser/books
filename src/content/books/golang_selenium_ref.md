@@ -1,6 +1,6 @@
 ---
 description: A Practical Guide to Data Mining and Automation
-imgSrc: https://friendlyuser.github.io/imgs/2023/2773787557.png
+imgSrc: https://friendlyuser.github.io/imgs/2023/1113292628.png
 pubDate: Fri, 14 December 2024
 tags:
 - c

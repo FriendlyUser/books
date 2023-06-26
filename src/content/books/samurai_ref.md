@@ -2,7 +2,7 @@
 description: The Samurai era, also known as the Edo period, lasted from 1603 to 1868
   in Japan. It was a time of relative peace and stability under the rule of the Tokugawa
   Shogunate,
-imgSrc: https://friendlyuser.github.io/imgs/2023/ng.png
+imgSrc: https://friendlyuser.github.io/imgs/2023/4181036141.png
 pubDate: Fri, 14 December 2024
 tags:
 - c

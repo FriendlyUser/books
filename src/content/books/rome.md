@@ -1,6 +1,6 @@
 ---
 description: A Study of Military Tactics and Weapons
-imgSrc: https://friendlyuser.github.io/imgs/2023/3170249337.png
+imgSrc: https://friendlyuser.github.io/imgs/2023/611034810.png
 pubDate: Fri, 14 December 2024
 tags:
 - c

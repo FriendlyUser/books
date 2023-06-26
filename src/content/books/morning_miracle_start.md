@@ -1,7 +1,7 @@
 ---
 description: 'Transform Your Life with The Miracle Morning: The Not-So-Obvious Secret
   Guaranteed to Transform Your Life'
-imgSrc: https://friendlyuser.github.io/imgs/2023/4225416985.png
+imgSrc: https://friendlyuser.github.io/imgs/2023/1938616315.png
 pubDate: Fri, 14 December 2024
 tags:
 - c

@@ -1,6 +1,6 @@
 ---
 description: Implementing core linux command line applications in Go
-imgSrc: https://friendlyuser.github.io/imgs/2023/954954072.png
+imgSrc: https://friendlyuser.github.io/imgs/2023/2892583015.png
 pubDate: Fri, 14 December 2024
 tags:
 - go

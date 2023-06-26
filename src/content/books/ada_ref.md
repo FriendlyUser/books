@@ -1,6 +1,6 @@
 ---
 description: A Comprehensive Guide to Modern Programming
-imgSrc: https://friendlyuser.github.io/imgs/2023/3997466131.png
+imgSrc: https://friendlyuser.github.io/imgs/2023/1836890630.png
 pubDate: Fri, 14 December 2024
 tags:
 - c

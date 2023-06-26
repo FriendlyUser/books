@@ -1,6 +1,6 @@
 ---
 description: Accelerating Modern Web Development with Perl
-imgSrc: https://friendlyuser.github.io/imgs/2023/831070838.png
+imgSrc: https://friendlyuser.github.io/imgs/2023/investing.png
 pubDate: Fri, 14 December 2024
 tags:
 - c

@@ -1,6 +1,6 @@
 ---
 description: using MongoDB and Typescript
-imgSrc: https://friendlyuser.github.io/imgs/2023/4225416985.png
+imgSrc: https://friendlyuser.github.io/imgs/2023/358691897_blank_card_on_brown_table.png
 pubDate: Fri, 14 December 2024
 tags:
 - go

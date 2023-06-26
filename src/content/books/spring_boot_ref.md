@@ -1,7 +1,6 @@
 ---
 description: A Beginner's Guide to Backend Development in Java
-imgSrc: https://friendlyuser.github.io/imgs/2023/DALL·E 2022-12-25 21.48.03 - teddy
-  bear on coach looking out the window at a tree.png
+imgSrc: https://friendlyuser.github.io/imgs/2023/1651429035.png
 pubDate: Fri, 14 December 2024
 tags:
 - c

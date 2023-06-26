@@ -1,6 +1,6 @@
 ---
 description: A Step-by-Step Guide to Learning Objective-C Programming Language
-imgSrc: https://friendlyuser.github.io/imgs/2023/1899250612.png
+imgSrc: https://friendlyuser.github.io/imgs/2023/pokemon_types_by_gen.png
 pubDate: Fri, 14 December 2024
 tags:
 - Erlang

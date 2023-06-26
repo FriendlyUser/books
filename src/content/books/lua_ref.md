@@ -1,11 +1,12 @@
 ---
-tags: ['c']
-title: Lua Programming
 description: A Comprehensive Guide to Modern Programming
-pubDate: Fri, 14 December 2024
-layout: "@/templates/BasePost.astro"
----
+imgSrc: https://friendlyuser.github.io/imgs/2023/3200675184.png
 
+pubDate: Fri, 14 December 2024
+tags:
+- c
+title: Lua Programming
+---
 
 # Chapter 1: Introduction to Lua Programming
 

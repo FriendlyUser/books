@@ -1,6 +1,6 @@
 ---
 description: Automate Your Infrastructure and Streamline Deployment Processes
-imgSrc: https://friendlyuser.github.io/imgs/2023/2378078723.png
+imgSrc: https://friendlyuser.github.io/imgs/2023/481242631.png
 pubDate: Fri, 14 December 2024
 tags:
 - c

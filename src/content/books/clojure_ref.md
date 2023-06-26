@@ -1,6 +1,6 @@
 ---
 description: An Introduction to Functional Programming with Examples
-imgSrc: https://friendlyuser.github.io/imgs/2023/522267727.png
+imgSrc: https://friendlyuser.github.io/imgs/2023/3898343691.png
 pubDate: Fri, 14 December 2024
 tags:
 - Clojure

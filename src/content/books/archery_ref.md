@@ -1,6 +1,6 @@
 ---
 description: A Comprehensive Guide to Traditional and Modern Techniques
-imgSrc: https://friendlyuser.github.io/imgs/2023/1549167659.png
+imgSrc: https://friendlyuser.github.io/imgs/2023/872471039.png
 pubDate: Fri, 14 December 2024
 tags:
 - c

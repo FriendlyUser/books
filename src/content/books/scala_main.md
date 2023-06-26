@@ -1,6 +1,6 @@
 ---
 description: Introduction to Scala
-imgSrc: https://friendlyuser.github.io/imgs/2023/2291827528.png
+imgSrc: https://friendlyuser.github.io/imgs/2023/335264211.png
 pubDate: Fri, 14 December 2024
 tags:
 - scala

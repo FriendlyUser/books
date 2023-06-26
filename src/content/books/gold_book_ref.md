@@ -1,6 +1,6 @@
 ---
 description: A History of Humanity's Fascination with the Precious Metal
-imgSrc: https://friendlyuser.github.io/imgs/2023/2466346852.png
+imgSrc: https://friendlyuser.github.io/imgs/2023/226878303.png
 pubDate: Fri, 14 December 2024
 tags:
 - c

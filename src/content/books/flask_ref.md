@@ -1,6 +1,6 @@
 ---
 description: A Beginner's Guide
-imgSrc: https://friendlyuser.github.io/imgs/2023/2125743054.png
+imgSrc: https://friendlyuser.github.io/imgs/2023/3292707171.png
 pubDate: Fri, 14 December 2024
 tags:
 - c

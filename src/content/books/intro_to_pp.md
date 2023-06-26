@@ -1,6 +1,6 @@
 ---
 description: Tools and Techniques for Success
-imgSrc: https://friendlyuser.github.io/imgs/2023/bear_book_2.png
+imgSrc: https://friendlyuser.github.io/imgs/2023/investing.png
 pubDate: Fri, 14 December 2024
 tags:
 - c

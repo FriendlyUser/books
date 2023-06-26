@@ -1,7 +1,6 @@
 ---
 description: A Comprehensive Guide to Building Web Scrapers with Go Programming Language
-imgSrc: https://friendlyuser.github.io/imgs/2023/1220160824_A_dream_of_a_distant_galaxy__concept_art__matte_painting__HQ__4k
-  (1).png
+imgSrc: https://friendlyuser.github.io/imgs/2023/2421950579.png
 pubDate: Fri, 14 December 2024
 tags:
 - go

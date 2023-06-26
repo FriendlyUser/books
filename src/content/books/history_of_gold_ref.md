@@ -1,6 +1,6 @@
 ---
 description: A Comprehensive History of Oil and Its Impact on the World
-imgSrc: https://friendlyuser.github.io/imgs/2023/1856526150.png
+imgSrc: https://friendlyuser.github.io/imgs/2023/1651429035.png
 pubDate: Fri, 14 December 2024
 tags:
 - c

@@ -1,11 +1,12 @@
 ---
-tags: ['c']
-title: Tomorrow Never Dies
 description: Why Climate Change Threatens Humanity's Future
-pubDate: Fri, 14 December 2024
-layout: "@/templates/BasePost.astro"
----
+imgSrc: https://friendlyuser.github.io/imgs/2023/1113292628.png
 
+pubDate: Fri, 14 December 2024
+tags:
+- c
+title: Tomorrow Never Dies
+---
 
 # Chapter 1: Introduction to Climate Change
 

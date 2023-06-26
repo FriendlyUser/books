@@ -1,6 +1,6 @@
 ---
 description: Exploring the Origins and Evolution of Early Human Societies
-imgSrc: https://friendlyuser.github.io/imgs/2023/3614994253.png
+imgSrc: https://friendlyuser.github.io/imgs/2023/335264211.png
 pubDate: Fri, 14 December 2024
 tags:
 - c

@@ -1,10 +1,14 @@
 ---
-tags: ['c']
-title: Mastering Data Visualization with Octave
-description: 
+description: Octave is an open-source numerical computing environment that is compatible
+  with MATLAB. It is primarily used for numerical analysis, scientific computing,
+imgSrc: https://friendlyuser.github.io/imgs/2023/611034810.png
+
 pubDate: Fri, 14 December 2024
-layout: "@/templates/BasePost.astro"
+tags:
+- c
+title: Mastering Data Visualization with Octave
 ---
+
 # Chapter 1: Introduction to Octave
 ## What is Octave?
 Octave is an open-source numerical computing environment that is compatible with MATLAB. It is primarily used for numerical analysis, scientific computing, and data processing. Octave is known for its ease of use and powerful capabilities in solving linear and nonlinear problems, numerical optimization, and signal processing, among others.

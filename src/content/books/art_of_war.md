@@ -1,6 +1,6 @@
 ---
 description: A Comprehensive Guide to Sun Tzu's Classic Military Treatise
-imgSrc: https://friendlyuser.github.io/imgs/2023/4161054396.png
+imgSrc: https://friendlyuser.github.io/imgs/2023/2679960937.png
 pubDate: Fri, 14 December 2024
 tags:
 - c

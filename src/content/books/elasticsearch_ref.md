@@ -1,6 +1,6 @@
 ---
 description: A Comprehensive Guide to Search and Analytics
-imgSrc: https://friendlyuser.github.io/imgs/2023/1220160824_A_dream_of_a_distant_galaxy__concept_art__matte_painting__HQ__4k.png
+imgSrc: https://friendlyuser.github.io/imgs/2023/upload_icon_cloud.png
 pubDate: Fri, 14 December 2024
 tags:
 - Elasticsearch

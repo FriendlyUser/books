@@ -1,6 +1,6 @@
 ---
 description: A Comprehensive Guide to Achieving Your Dreams
-imgSrc: https://friendlyuser.github.io/imgs/2023/3702590653.png
+imgSrc: https://friendlyuser.github.io/imgs/2023/1938616315.png
 pubDate: Fri, 14 December 2024
 tags:
 - c

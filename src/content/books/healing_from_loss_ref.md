@@ -1,6 +1,6 @@
 ---
 description: Navigating Loss and Finding Meaning
-imgSrc: https://friendlyuser.github.io/imgs/2023/1856526150.png
+imgSrc: https://friendlyuser.github.io/imgs/2023/4039349639.png
 pubDate: Fri, 14 December 2024
 tags:
 - c

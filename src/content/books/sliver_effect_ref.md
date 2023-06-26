@@ -1,11 +1,12 @@
 ---
-tags: ['c']
-title: The Sliver Effect
 description: How Tiny Inputs Lead to Massive Change
-pubDate: Fri, 14 December 2024
-layout: "@/templates/BasePost.astro"
----
+imgSrc: https://friendlyuser.github.io/imgs/2023/235824961.png
 
+pubDate: Fri, 14 December 2024
+tags:
+- c
+title: The Sliver Effect
+---
 
 # Introduction: The Sliver Effect: How Tiny Inputs Lead to Massive Change
 

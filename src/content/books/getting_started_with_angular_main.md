@@ -1,6 +1,6 @@
 ---
 description: A Beginner’s Guide to Learning Angular with
-imgSrc: https://friendlyuser.github.io/imgs/2023/1678591372_a_blade_in_the_desert_under_the_sun.png
+imgSrc: https://friendlyuser.github.io/imgs/2023/358691897_blank_card_on_brown_table.png
 pubDate: Fri, 14 December 2024
 tags:
 - jsx

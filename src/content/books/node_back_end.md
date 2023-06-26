@@ -1,6 +1,6 @@
 ---
 description: Introduction to Backend Development
-imgSrc: https://friendlyuser.github.io/imgs/2023/1468599164.png
+imgSrc: https://friendlyuser.github.io/imgs/2023/bear_book_2.png
 pubDate: Fri, 14 December 2024
 tags:
 - rust

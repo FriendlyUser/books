@@ -1,6 +1,6 @@
 ---
 description: A Beginner's Guide to Learn C++ and SFML
-imgSrc: https://friendlyuser.github.io/imgs/2023/3200675184.png
+imgSrc: https://friendlyuser.github.io/imgs/2023/1411559119.png
 pubDate: Fri, 14 December 2024
 tags:
 - express

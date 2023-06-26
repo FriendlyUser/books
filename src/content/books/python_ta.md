@@ -1,6 +1,6 @@
 ---
 description: Getting Started with Technical Analysis in Python
-imgSrc: https://friendlyuser.github.io/imgs/2023/186810635.png
+imgSrc: https://friendlyuser.github.io/imgs/2023/2465919888.png
 pubDate: Fri, 14 December 2024
 tags:
 - jsx

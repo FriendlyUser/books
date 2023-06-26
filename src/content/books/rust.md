@@ -1,7 +1,7 @@
 ---
 description: 'Introduction to Rust: A Safe and Performant Language for the Modern
   Era'
-imgSrc: https://friendlyuser.github.io/imgs/2023/1899250612.png
+imgSrc: https://friendlyuser.github.io/imgs/2023/2979557006.png
 pubDate: Fri, 14 December 2024
 tags:
 - rust

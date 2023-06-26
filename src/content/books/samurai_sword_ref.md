@@ -1,6 +1,6 @@
 ---
 description: Its History and Significance in Japanese Culture
-imgSrc: https://friendlyuser.github.io/imgs/2023/4161054396.png
+imgSrc: https://friendlyuser.github.io/imgs/2023/4181036141.png
 pubDate: Fri, 14 December 2024
 tags:
 - c

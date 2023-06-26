@@ -1,6 +1,6 @@
 ---
 description: with golang and mongodb
-imgSrc: https://friendlyuser.github.io/imgs/2023/1899250612.png
+imgSrc: https://friendlyuser.github.io/imgs/2023/729981546.png
 pubDate: Fri, 14 December 2024
 tags:
 - go

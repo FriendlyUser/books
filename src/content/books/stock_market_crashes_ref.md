@@ -1,11 +1,12 @@
 ---
-tags: ['c']
-title: Black Swan Events in Stock Market History
 description: Understanding the Impact of Unpredictable Events on Investments
-pubDate: Fri, 14 December 2024
-layout: "@/templates/BasePost.astro"
----
+imgSrc: https://friendlyuser.github.io/imgs/2023/729981546.png
 
+pubDate: Fri, 14 December 2024
+tags:
+- c
+title: Black Swan Events in Stock Market History
+---
 
 # Chapter 1: Introduction
 

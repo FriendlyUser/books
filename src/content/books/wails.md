@@ -1,11 +1,12 @@
 ---
-tags: ['c']
-title: Mastering Desktop Development
 description: Building Web-Based Apps with Wails
-pubDate: Fri, 14 December 2024
-layout: "@/templates/BasePost.astro"
----
+imgSrc: https://friendlyuser.github.io/imgs/2023/2785394646.png
 
+pubDate: Fri, 14 December 2024
+tags:
+- c
+title: Mastering Desktop Development
+---
 
 # Chapter 1: Introduction to Wails
 

@@ -1,6 +1,6 @@
 ---
 description: A Fast-paced Introduction to Building Modern Applications
-imgSrc: https://friendlyuser.github.io/imgs/2023/1373682361.png
+imgSrc: https://friendlyuser.github.io/imgs/2023/656417929.png
 pubDate: Fri, 14 December 2024
 tags:
 - c

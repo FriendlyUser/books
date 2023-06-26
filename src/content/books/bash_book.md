@@ -5,7 +5,8 @@ description: This book provides a beginner-friendly introduction to Bash scripti
   custom command line tools. Whether you're a developer looking to improve your command
   line skills, or a sysadmin seeking to streamline your workflow, this book has everything
   you need to get started with Bash scripting.
-imgSrc: https://friendlyuser.github.io/imgs/2023/577360463.png
+imgSrc: https://friendlyuser.github.io/imgs/2023/1220160824_A_dream_of_a_distant_galaxy__concept_art__matte_painting__HQ__4k
+  (1).png
 pubDate: Fri, 14 December 2024
 subtitle: Master the Art of Command Line Automation
 tags:

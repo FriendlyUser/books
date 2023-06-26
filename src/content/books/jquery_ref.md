@@ -1,6 +1,6 @@
 ---
 description: Advanced Techniques for Building Dynamic Web Applications
-imgSrc: https://friendlyuser.github.io/imgs/2023/1549167659.png
+imgSrc: https://friendlyuser.github.io/imgs/2023/1460588698.png
 pubDate: Fri, 14 December 2024
 tags:
 - go

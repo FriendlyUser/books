@@ -1,6 +1,6 @@
 ---
 description: A Beginner's Guide to Building Decentralized Applications on the Blockchain
-imgSrc: https://friendlyuser.github.io/imgs/2023/27770932.png
+imgSrc: https://friendlyuser.github.io/imgs/2023/2257408743.png
 pubDate: Fri, 14 December 2024
 tags:
 - Erlang

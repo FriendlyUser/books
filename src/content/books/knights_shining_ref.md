@@ -1,11 +1,11 @@
 ---
-imgSrc: https://friendlyuser.github.io/imgs/2023/2228775041.png
-tags: ['c']
-title: Knights in Shining Armor
 description: The Evolution of Medieval Warfare and Weaponry
+imgSrc: https://friendlyuser.github.io/imgs/2023/4065959670.png
+label: Done
 pubDate: Fri, 14 December 2024
-
-label: "Done"
+tags:
+- c
+title: Knights in Shining Armor
 ---
 
 # Knights in Shining Armor: The Evolution of Medieval Warfare and Weaponry

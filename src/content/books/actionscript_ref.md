@@ -1,6 +1,6 @@
 ---
 description: An Introduction to Programming Rich Internet Applications with Flash
-imgSrc: https://friendlyuser.github.io/imgs/2023/3382720876.png
+imgSrc: https://friendlyuser.github.io/imgs/2023/831070838.png
 pubDate: Fri, 14 December 2024
 tags:
 - c

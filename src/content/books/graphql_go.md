@@ -1,6 +1,6 @@
 ---
 description: A Comprehensive Guide to Building Modern APIs with GraphQL and Go
-imgSrc: https://friendlyuser.github.io/imgs/2023/3658824416.png
+imgSrc: https://friendlyuser.github.io/imgs/2023/3708253319.png
 pubDate: Fri, 14 December 2024
 tags:
 - c

@@ -1,6 +1,6 @@
 ---
 description: Learning Algorithms in Javascript
-imgSrc: https://friendlyuser.github.io/imgs/2023/3619698287.png
+imgSrc: https://friendlyuser.github.io/imgs/2023/872471039.png
 pubDate: Fri, 14 December 2024
 tags:
 - js

@@ -1,6 +1,6 @@
 ---
 description: A Comprehensive Guide to Backend Development
-imgSrc: https://friendlyuser.github.io/imgs/2023/3563897667.png
+imgSrc: https://friendlyuser.github.io/imgs/2023/2994756722.png
 pubDate: Fri, 14 December 2024
 tags:
 - c

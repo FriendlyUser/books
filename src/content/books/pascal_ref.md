@@ -1,10 +1,13 @@
 ---
-tags: ['c']
-title: Getting Started with Pascal
 description: An Introduction to Programming for Beginners
+imgSrc: https://friendlyuser.github.io/imgs/2023/1460588698.png
+
 pubDate: Fri, 14 December 2024
-layout: "@/templates/BasePost.astro"
+tags:
+- c
+title: Getting Started with Pascal
 ---
+
 # Chapter 1: Introduction to Programming
 ## Overview of programming and its importance
 Programming is the process of creating instructions that a computer can follow to perform specific tasks. It involves writing code using a programming language, which serves as a set of instructions to be executed by the computer. Programming is crucial in today's digital world as it enables us to develop software applications, websites, mobile apps, and much more.

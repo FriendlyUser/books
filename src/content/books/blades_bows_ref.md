@@ -1,6 +1,6 @@
 ---
 description: Weapons of the Warring States Era
-imgSrc: https://friendlyuser.github.io/imgs/2023/358691897_blank_card_on_brown_table.png
+imgSrc: https://friendlyuser.github.io/imgs/2023/654074938.png
 pubDate: Fri, 14 December 2024
 tags:
 - c

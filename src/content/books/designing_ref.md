@@ -1,6 +1,6 @@
 ---
 description: Designing Large Scale Software Systems
-imgSrc: https://friendlyuser.github.io/imgs/2023/2094095868.png
+imgSrc: https://friendlyuser.github.io/imgs/2023/2249370858.png
 pubDate: Fri, 14 December 2024
 tags:
 - go

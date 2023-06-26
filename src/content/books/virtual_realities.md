@@ -1,11 +1,12 @@
 ---
-tags: ['c']
-title: Virtual Realities, Real Consequences
 description: The Impact of Video Games on Society
-pubDate: Fri, 14 December 2024
-layout: "@/templates/BasePost.astro"
----
+imgSrc: https://friendlyuser.github.io/imgs/2023/3582189135.png
 
+pubDate: Fri, 14 December 2024
+tags:
+- c
+title: Virtual Realities, Real Consequences
+---
 
 # Chapter 1: Introduction
 

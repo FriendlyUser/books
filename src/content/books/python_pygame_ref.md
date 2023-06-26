@@ -1,6 +1,6 @@
 ---
 description: Build 7 classic games using pygame
-imgSrc: https://friendlyuser.github.io/imgs/2023/1452718796.png
+imgSrc: https://friendlyuser.github.io/imgs/2023/294668704.png
 pubDate: Fri, 14 December 2024
 tags:
 - pygame

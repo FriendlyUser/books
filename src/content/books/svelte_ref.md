@@ -1,10 +1,14 @@
 ---
-tags: ['svelte', 'web']
-title: Getting Started with Svelte
 description: A Beginner's Guide to Building Web Applications with Svelte
+imgSrc: https://friendlyuser.github.io/imgs/2023/148139817.png
+
 pubDate: Fri, 14 December 2024
-layout: "@/templates/BasePost.astro"
+tags:
+- svelte
+- web
+title: Getting Started with Svelte
 ---
+
 # Chapter 1: Introduction to Svelte
 ## Overview of Svelte?
 Svelte is a modern, component-based JavaScript framework used for building user interfaces. It is different from other frameworks in that it compiles the code at build time, rather than at runtime, resulting in faster rendering and smaller bundle sizes. This means that Svelte is particularly suited for building high-performance web applications.

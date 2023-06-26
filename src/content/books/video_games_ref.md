@@ -1,6 +1,6 @@
 ---
 description: How to get good at video games
-imgSrc: https://friendlyuser.github.io/imgs/2023/2809803247.png
+imgSrc: https://friendlyuser.github.io/imgs/2023/1373682361.png
 pubDate: Fri, 14 December 2024
 tags:
 - c

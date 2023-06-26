@@ -1,6 +1,6 @@
 ---
 description: A Guide to Crafting Good UI and UX
-imgSrc: https://friendlyuser.github.io/imgs/2023/1086816529.png
+imgSrc: https://friendlyuser.github.io/imgs/2023/549017699.png
 pubDate: Fri, 14 December 2024
 tags:
 - c

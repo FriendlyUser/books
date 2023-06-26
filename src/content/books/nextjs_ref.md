@@ -1,6 +1,6 @@
 ---
 description: A Beginner's Guide to Building Modern Web Applications
-imgSrc: https://friendlyuser.github.io/imgs/2023/1468599164.png
+imgSrc: https://friendlyuser.github.io/imgs/2023/14447351.png
 pubDate: Fri, 14 December 2024
 tags:
 - c

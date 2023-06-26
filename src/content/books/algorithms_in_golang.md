@@ -1,6 +1,6 @@
 ---
 description: A Beginner’s Guide to Learning Algorithms with Golang
-imgSrc: https://friendlyuser.github.io/imgs/2023/powell_ANGRY.png
+imgSrc: https://friendlyuser.github.io/imgs/2023/4252050732.png
 pubDate: Fri, 14 December 2024
 tags:
 - golang

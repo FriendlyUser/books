@@ -1,6 +1,6 @@
 ---
 description: Implementing core linux command line applications in Typescript
-imgSrc: https://friendlyuser.github.io/imgs/2023/2257408743.png
+imgSrc: https://friendlyuser.github.io/imgs/2023/3614994253.png
 pubDate: Fri, 14 December 2024
 tags:
 - go

@@ -1,6 +1,6 @@
 ---
 description: Learning about cobol programming
-imgSrc: https://friendlyuser.github.io/imgs/2023/2094095868.png
+imgSrc: https://friendlyuser.github.io/imgs/2023/3431403716.png
 pubDate: Fri, 14 December 2024
 tags:
 - go

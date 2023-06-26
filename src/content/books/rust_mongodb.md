@@ -1,10 +1,13 @@
 ---
-tags: ['c']
-title: An Introduction to Using MongoDB with Rust Programming Language
 description: A Beginner's Guide to Backend Development in Java
+imgSrc: https://friendlyuser.github.io/imgs/2023/3870845711.png
+
 pubDate: Fri, 14 December 2024
-layout: "@/templates/BasePost.astro"
+tags:
+- c
+title: An Introduction to Using MongoDB with Rust Programming Language
 ---
+
 # Chapter 1: Introduction to MongoDB and Rust
 ## Overview of MongoDB and Rust
 MongoDB is a popular NoSQL document-oriented database that uses JSON-like documents with optional schemas. Rust, on the other hand, is a modern programming language that offers memory safety, zero-cost abstractions, and thread safety. 

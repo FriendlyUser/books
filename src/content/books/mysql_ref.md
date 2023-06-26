@@ -1,10 +1,13 @@
 ---
-tags: ['c']
-title: Unlocking the Power of MySQL and SQL
 description: A Practical Guide to Modern Database Development
+imgSrc: https://friendlyuser.github.io/imgs/2023/3063879952.png
+
 pubDate: Fri, 14 December 2024
-layout: "@/templates/BasePost.astro"
+tags:
+- c
+title: Unlocking the Power of MySQL and SQL
 ---
+
 # Chapter 1: Introduction to MySQL and SQL
 ## Overview of MySQL and SQL
 MySQL and SQL (Structured Query Language) are fundamental technologies in the field of database development. MySQL is an open-source relational database management system (RDBMS) that uses SQL as its primary language for interacting with the database. SQL is a standardized language used to communicate with databases, enabling the creation, modification, and retrieval of data.

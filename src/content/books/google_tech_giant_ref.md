@@ -1,11 +1,12 @@
 ---
-tags: ['c']
-title: The Google Story
 description: An Inside Look at the Tech Giant's Rise to Power
-pubDate: Fri, 14 December 2024
-layout: "@/templates/BasePost.astro"
----
+imgSrc: https://friendlyuser.github.io/imgs/2023/611034810.png
 
+pubDate: Fri, 14 December 2024
+tags:
+- c
+title: The Google Story
+---
 
 # Chapter 1: The Early Days
 

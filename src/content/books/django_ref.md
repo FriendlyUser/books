@@ -2,7 +2,7 @@
 description: It involves using programming languages and frameworks like Python and
   Django to build the logic behind the web application that is not visible to the
   end-users.
-imgSrc: https://friendlyuser.github.io/imgs/2023/4225416985.png
+imgSrc: https://friendlyuser.github.io/imgs/2023/3790846708.png
 pubDate: Fri, 14 December 2024
 tags:
 - c

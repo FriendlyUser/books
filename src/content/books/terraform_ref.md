@@ -1,11 +1,12 @@
 ---
-tags: ['c']
-title: Infrastructure as Code with Terraform
 description: Automate Your Cloud Infrastructure Deployment and Management
-pubDate: Fri, 14 December 2024
-layout: "@/templates/BasePost.astro"
----
+imgSrc: https://friendlyuser.github.io/imgs/2023/3870845711.png
 
+pubDate: Fri, 14 December 2024
+tags:
+- c
+title: Infrastructure as Code with Terraform
+---
 
 # Chapter 1: Getting Started with Terraform
 

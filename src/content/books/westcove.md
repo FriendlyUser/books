@@ -1,6 +1,6 @@
 ---
 description: Whispers of the Wind
-imgSrc: https://friendlyuser.github.io/imgs/2023/2896017845.png
+imgSrc: https://friendlyuser.github.io/imgs/2023/481242631.png
 pubDate: Fri, 14 December 2024
 tags:
 - go

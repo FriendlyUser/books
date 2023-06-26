@@ -1,6 +1,6 @@
 ---
 description: An Introduction to Functional Programming and Type Systems
-imgSrc: https://friendlyuser.github.io/imgs/2023/1312348161.png
+imgSrc: https://friendlyuser.github.io/imgs/2023/3131299487.png
 pubDate: Fri, 14 December 2024
 tags:
 - haskell

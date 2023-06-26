@@ -1,6 +1,6 @@
 ---
 description: A Comprehensive History of Ponzi Schemes
-imgSrc: https://friendlyuser.github.io/imgs/2023/1879869613.png
+imgSrc: https://friendlyuser.github.io/imgs/2023/611034810.png
 pubDate: Fri, 14 December 2024
 tags:
 - c
