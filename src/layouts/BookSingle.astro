@@ -40,10 +40,10 @@ const {  headings } = Astro.props;
                 {humanize(post.data.author)}
               </li>
 
-              <li class="mr-4 inline-block">
+              <!-- <li class="mr-4 inline-block">
                 <FaRegCalendarAlt className={"mr-2 -mt-1 inline-block"} />
                 {dateFormat(post.data?.pubDate)}
-              </li>
+              </li> -->
               <li class="mr-4 inline-block">
                 <FaRegClock className={"mr-2 -mt-1 inline-block"} />
                 {readingTime(post.body)}
